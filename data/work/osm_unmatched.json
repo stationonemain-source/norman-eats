@@ -1,0 +1,555 @@
+[
+ {
+  "name": "Asian Cuisine",
+  "kind": "fast_food",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/node/1666788817",
+  "edited": "2012-03-09"
+ },
+ {
+  "name": "The Clubhouse Grill",
+  "kind": "restaurant",
+  "street": "1",
+  "osm": "https://www.openstreetmap.org/node/1830322459",
+  "edited": "2020-09-24"
+ },
+ {
+  "name": "The Flying Cow Cafe",
+  "kind": "cafe",
+  "street": "120",
+  "osm": "https://www.openstreetmap.org/node/1830322463",
+  "edited": "2025-04-16"
+ },
+ {
+  "name": "Crossroads",
+  "kind": "restaurant",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/node/1953461877",
+  "edited": "2012-10-08"
+ },
+ {
+  "name": "Chick-fil-A",
+  "kind": "fast_food",
+  "street": "333 3rd Street",
+  "osm": "https://www.openstreetmap.org/node/1953464029",
+  "edited": "2024-05-19"
+ },
+ {
+  "name": "Seven 47",
+  "kind": "restaurant",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/node/1953616727",
+  "edited": "2019-03-08"
+ },
+ {
+  "name": "Meatball House",
+  "kind": "restaurant",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/node/1953658552",
+  "edited": "2016-07-17"
+ },
+ {
+  "name": "Kong's Tavern",
+  "kind": "pub",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/node/1953661920",
+  "edited": "2020-01-26"
+ },
+ {
+  "name": "Blackbird Gastropub",
+  "kind": "restaurant",
+  "street": "575 South University Boulevard",
+  "osm": "https://www.openstreetmap.org/node/1953908561",
+  "edited": "2019-10-30"
+ },
+ {
+  "name": "Jax",
+  "kind": "restaurant",
+  "street": "575 South University Boulevard",
+  "osm": "https://www.openstreetmap.org/node/1953911224",
+  "edited": "2016-01-29"
+ },
+ {
+  "name": "Hurtz Donuts",
+  "kind": "restaurant",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/node/2322087531",
+  "edited": "2019-07-15"
+ },
+ {
+  "name": "Pho Winner Vietnamese Restaurant",
+  "kind": "restaurant",
+  "street": "775 Jenkins Avenue",
+  "osm": "https://www.openstreetmap.org/node/2586998199",
+  "edited": "2025-11-23"
+ },
+ {
+  "name": "Golden Cheff",
+  "kind": "restaurant",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/node/2656625992",
+  "edited": "2014-02-05"
+ },
+ {
+  "name": "Sandro's Pizza and Pasta",
+  "kind": "restaurant",
+  "street": "914 West Main Street",
+  "osm": "https://www.openstreetmap.org/node/2779550045",
+  "edited": "2025-11-23"
+ },
+ {
+  "name": "Crimson and Whipped Cream",
+  "kind": "cafe",
+  "street": "331 White Street",
+  "osm": "https://www.openstreetmap.org/node/2899301990",
+  "edited": "2019-02-13"
+ },
+ {
+  "name": "9-East Liquor",
+  "kind": "liquor_store",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/node/3411454063",
+  "edited": "2024-10-24"
+ },
+ {
+  "name": "Asian Buffet",
+  "kind": "restaurant",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/node/3683040349",
+  "edited": "2017-12-17"
+ },
+ {
+  "name": "Lemon Tree Mediterranean Restaurant",
+  "kind": "restaurant",
+  "street": "924 West Main Street",
+  "osm": "https://www.openstreetmap.org/node/3938542242",
+  "edited": "2021-01-31"
+ },
+ {
+  "name": "DQ Grill & Chill",
+  "kind": "fast_food",
+  "street": "1835 West Main Street",
+  "osm": "https://www.openstreetmap.org/node/3976960479",
+  "edited": "2025-12-28"
+ },
+ {
+  "name": "Cafe Saffron",
+  "kind": "restaurant",
+  "street": "770 Debarr Street",
+  "osm": "https://www.openstreetmap.org/node/4074481075",
+  "edited": "2016-03-23"
+ },
+ {
+  "name": "TK's Tailgate Tavern",
+  "kind": "bar",
+  "street": "1429 George Avenue",
+  "osm": "https://www.openstreetmap.org/node/4350166221",
+  "edited": "2025-05-29"
+ },
+ {
+  "name": "Schooner Liquor",
+  "kind": "liquor_store",
+  "street": "1215 East Lindsey Street",
+  "osm": "https://www.openstreetmap.org/node/4670399815",
+  "edited": "2026-08-02"
+ },
+ {
+  "name": "Second Wind",
+  "kind": "cafe",
+  "street": "564 Buchanan Avenue",
+  "osm": "https://www.openstreetmap.org/node/6275561612",
+  "edited": "2025-01-25"
+ },
+ {
+  "name": "Diamond Dawgs",
+  "kind": "restaurant",
+  "street": "753 Asp Avenue",
+  "osm": "https://www.openstreetmap.org/node/6275588030",
+  "edited": "2025-01-25"
+ },
+ {
+  "name": "Louie's Too",
+  "kind": "bar",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/node/6324419457",
+  "edited": "2019-03-08"
+ },
+ {
+  "name": "Sugers",
+  "kind": "nightclub",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/node/6324419476",
+  "edited": "2019-03-08"
+ },
+ {
+  "name": "Carol's Kitchen",
+  "kind": "restaurant",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/node/6400003537",
+  "edited": "2019-04-12"
+ },
+ {
+  "name": "The Pizza Shop",
+  "kind": "restaurant",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/node/6400003538",
+  "edited": "2019-04-12"
+ },
+ {
+  "name": "Volcanos Mexican Food",
+  "kind": "restaurant",
+  "street": "2030 West Lindsey Street",
+  "osm": "https://www.openstreetmap.org/node/10577822554",
+  "edited": "2023-01-23"
+ },
+ {
+  "name": "Yellow Dog Coffee Co.",
+  "kind": "cafe",
+  "street": "222 South Porter Avenue",
+  "osm": "https://www.openstreetmap.org/node/11833450584",
+  "edited": "2024-04-20"
+ },
+ {
+  "name": "Joe\u2019s Wines & Spirits",
+  "kind": "liquor_store",
+  "street": "1330 East Alameda Street",
+  "osm": "https://www.openstreetmap.org/node/12068805172",
+  "edited": "2024-07-22"
+ },
+ {
+  "name": "Not Your Average Joe",
+  "kind": "cafe",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/node/12089052540",
+  "edited": "2025-11-20"
+ },
+ {
+  "name": "Taqueria Express \"La Villita\"",
+  "kind": "fast_food",
+  "street": "North Porter Avenue",
+  "osm": "https://www.openstreetmap.org/node/12729985101",
+  "edited": "2025-04-16"
+ },
+ {
+  "name": "Einstein Bros Bagels",
+  "kind": "fast_food",
+  "street": "100 East Lindsey Street",
+  "osm": "https://www.openstreetmap.org/node/12759522101",
+  "edited": "2025-04-16"
+ },
+ {
+  "name": "Basic Knead",
+  "kind": "restaurant",
+  "street": "South Asp Avenue",
+  "osm": "https://www.openstreetmap.org/node/12759522301",
+  "edited": "2025-04-16"
+ },
+ {
+  "name": "Credo Kitchen",
+  "kind": "restaurant",
+  "street": "South Asp Avenue",
+  "osm": "https://www.openstreetmap.org/node/12759522401",
+  "edited": "2025-04-16"
+ },
+ {
+  "name": "Glow Kitchen",
+  "kind": "restaurant",
+  "street": "South Asp Avenue",
+  "osm": "https://www.openstreetmap.org/node/12759531201",
+  "edited": "2025-04-16"
+ },
+ {
+  "name": "The Hive",
+  "kind": "restaurant",
+  "street": "South Asp Avenue",
+  "osm": "https://www.openstreetmap.org/node/12759535602",
+  "edited": "2025-04-16"
+ },
+ {
+  "name": "The Hive",
+  "kind": "restaurant",
+  "street": "South Asp Avenue",
+  "osm": "https://www.openstreetmap.org/node/12759548301",
+  "edited": "2025-04-16"
+ },
+ {
+  "name": "Pitchfork Taqueria",
+  "kind": "restaurant",
+  "street": "South Asp Avenue",
+  "osm": "https://www.openstreetmap.org/node/12759548302",
+  "edited": "2025-04-16"
+ },
+ {
+  "name": "Milkflower Gelateria",
+  "kind": "restaurant",
+  "street": "South Asp Avenue",
+  "osm": "https://www.openstreetmap.org/node/12759548401",
+  "edited": "2025-04-16"
+ },
+ {
+  "name": "Sushi with Gusto",
+  "kind": "restaurant",
+  "street": "Cross Center Drive",
+  "osm": "https://www.openstreetmap.org/node/12759557002",
+  "edited": "2025-04-16"
+ },
+ {
+  "name": "The Range",
+  "kind": "restaurant",
+  "street": "South Asp Avenue",
+  "osm": "https://www.openstreetmap.org/node/12759558801",
+  "edited": "2025-04-16"
+ },
+ {
+  "name": "Cafe 201",
+  "kind": "cafe",
+  "street": "201 David L Boren Boulevard",
+  "osm": "https://www.openstreetmap.org/node/12759567701",
+  "edited": "2026-09-26"
+ },
+ {
+  "name": "Residential Colleges' Dining Hall",
+  "kind": "cafe",
+  "street": "250 West Lindsey Street",
+  "osm": "https://www.openstreetmap.org/node/12794298302",
+  "edited": "2026-08-18"
+ },
+ {
+  "name": "Old School Bagel Cafe",
+  "kind": "cafe",
+  "street": "3075, Ste 101 South Classen Boulevard",
+  "osm": "https://www.openstreetmap.org/node/13116309701",
+  "edited": "2026-02-13"
+ },
+ {
+  "name": "University Club",
+  "kind": "restaurant",
+  "street": "660 Parrington Oval",
+  "osm": "https://www.openstreetmap.org/node/13601878301",
+  "edited": "2026-02-28"
+ },
+ {
+  "name": "Tacos Huaches Taco Truck",
+  "kind": "fast_food",
+  "street": "East Lindsey Street",
+  "osm": "https://www.openstreetmap.org/node/13765422601",
+  "edited": "2026-04-27"
+ },
+ {
+  "name": "Rooted Cafe",
+  "kind": "cafe",
+  "street": "1915 Classen Boulevard",
+  "osm": "https://www.openstreetmap.org/node/13945774602",
+  "edited": "2026-09-29"
+ },
+ {
+  "name": "Couch Restaurants",
+  "kind": "restaurant",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/way/162152638",
+  "edited": "2026-06-11"
+ },
+ {
+  "name": "Ray's Smokehouse BBQ",
+  "kind": "restaurant",
+  "street": "1514 West Lindsey Street",
+  "osm": "https://www.openstreetmap.org/way/315568677",
+  "edited": "2014-12-03"
+ },
+ {
+  "name": "Penny Hill",
+  "kind": "restaurant",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/way/323396667",
+  "edited": "2015-05-23"
+ },
+ {
+  "name": "Mr. Hui",
+  "kind": "restaurant",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/way/323396877",
+  "edited": "2023-09-08"
+ },
+ {
+  "name": "KFC",
+  "kind": "fast_food",
+  "street": "1801 West Lindsey Street",
+  "osm": "https://www.openstreetmap.org/way/323396905",
+  "edited": "2024-03-19"
+ },
+ {
+  "name": "Corkscrew Wine & Spirits",
+  "kind": "liquor_store",
+  "street": "2319 West Lindsey Street",
+  "osm": "https://www.openstreetmap.org/way/323397494",
+  "edited": "2024-04-16"
+ },
+ {
+  "name": "Spirit Shop",
+  "kind": "liquor_store",
+  "street": "109 South Berry Road",
+  "osm": "https://www.openstreetmap.org/way/323574170",
+  "edited": "2024-10-24"
+ },
+ {
+  "name": "Legend's Times Two",
+  "kind": "restaurant",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/way/323587934",
+  "edited": "2015-01-22"
+ },
+ {
+  "name": "Mazzio's",
+  "kind": "restaurant",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/way/323590657",
+  "edited": "2024-10-20"
+ },
+ {
+  "name": "Logan's Roadhouse",
+  "kind": "restaurant",
+  "street": "1250 24th Avenue Northwest",
+  "osm": "https://www.openstreetmap.org/way/323737251",
+  "edited": "2024-01-17"
+ },
+ {
+  "name": "Wayne's Waterside Grill",
+  "kind": "restaurant",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/way/323926921",
+  "edited": "2023-09-08"
+ },
+ {
+  "name": "Jason's Deli",
+  "kind": "restaurant",
+  "street": "950 Ed Noble Parkway",
+  "osm": "https://www.openstreetmap.org/way/323929166",
+  "edited": "2024-01-17"
+ },
+ {
+  "name": "Wendy's",
+  "kind": "fast_food",
+  "street": "1908 West Main Street",
+  "osm": "https://www.openstreetmap.org/way/324087756",
+  "edited": "2024-05-22"
+ },
+ {
+  "name": "Shipley Do-Nuts",
+  "kind": "fast_food",
+  "street": "1805 West Main Street",
+  "osm": "https://www.openstreetmap.org/way/324090881",
+  "edited": "2024-03-26"
+ },
+ {
+  "name": "Clear Bay Cafe",
+  "kind": "restaurant",
+  "street": "100 Breakwater Drive",
+  "osm": "https://www.openstreetmap.org/way/385765314",
+  "edited": "2021-10-07"
+ },
+ {
+  "name": "Cellar Wine & Spirits",
+  "kind": "liquor_store",
+  "street": "555 West Main Street",
+  "osm": "https://www.openstreetmap.org/way/385928471",
+  "edited": "2025-12-24"
+ },
+ {
+  "name": "Service Station Bar & Grill",
+  "kind": "restaurant",
+  "street": "502 South Webster Avenue",
+  "osm": "https://www.openstreetmap.org/way/394648985",
+  "edited": "2019-06-08"
+ },
+ {
+  "name": "Notorious Pie",
+  "kind": "restaurant",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/way/456769787",
+  "edited": "2026-05-31"
+ },
+ {
+  "name": "Eskimo Sno",
+  "kind": "restaurant",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/way/457051372",
+  "edited": "2023-11-02"
+ },
+ {
+  "name": "Jesters Wine Beer & Spirits",
+  "kind": "liquor_store",
+  "street": "2405 North Porter Avenue",
+  "osm": "https://www.openstreetmap.org/way/491537104",
+  "edited": "2017-05-05"
+ },
+ {
+  "name": "Eskimo Sno",
+  "kind": "ice_cream",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/way/543020591",
+  "edited": "2017-11-27"
+ },
+ {
+  "name": "Teapioca",
+  "kind": "cafe",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/way/543021394",
+  "edited": "2022-07-28"
+ },
+ {
+  "name": "Eskimo Hut",
+  "kind": "bar",
+  "street": "1808 West Lindsey Street",
+  "osm": "https://www.openstreetmap.org/way/543021397",
+  "edited": "2022-07-28"
+ },
+ {
+  "name": "KFC",
+  "kind": "fast_food",
+  "street": "1201 East Alameda Street",
+  "osm": "https://www.openstreetmap.org/way/547492302",
+  "edited": "2023-11-26"
+ },
+ {
+  "name": "Mamaveca Mexican & Purivian Restaurant",
+  "kind": "restaurant",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/way/947033095",
+  "edited": "2023-09-08"
+ },
+ {
+  "name": "Starbucks",
+  "kind": "cafe",
+  "street": "3051 South Classen Boulevard",
+  "osm": "https://www.openstreetmap.org/way/1073111111",
+  "edited": "2026-02-13"
+ },
+ {
+  "name": "Red Rock Canyon Grill Outdoor Bar",
+  "kind": "bar",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/way/1206039279",
+  "edited": "2023-09-08"
+ },
+ {
+  "name": "Popeyes",
+  "kind": "fast_food",
+  "street": "3281 Classen Boulevard",
+  "osm": "https://www.openstreetmap.org/way/1347897279",
+  "edited": "2025-01-02"
+ },
+ {
+  "name": "P.F. Chang's",
+  "kind": "restaurant",
+  "street": "1651 24th Avenue Northwest",
+  "osm": "https://www.openstreetmap.org/way/1445711138",
+  "edited": "2025-10-28"
+ },
+ {
+  "name": "Das BootCamp",
+  "kind": "bar",
+  "street": "",
+  "osm": "https://www.openstreetmap.org/way/1524794934",
+  "edited": "2026-05-31"
+ }
+]

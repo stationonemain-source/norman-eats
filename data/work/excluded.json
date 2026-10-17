@@ -1,0 +1,294 @@
+[
+ {
+  "name": "Royal Pipe & Tobacco Ltd",
+  "street": "105 E Boyd St",
+  "why": "not a restaurant or bar (a store, dispensary, institution, stand or service kitchen)",
+  "sources": [
+   "able",
+   "osdh"
+  ],
+  "licence_types": [
+   "Mixed Beverage"
+  ],
+  "last_inspection": "2026-05-15"
+ },
+ {
+  "name": "Native Spirits Winery",
+  "street": "10500 E Lindsey St",
+  "why": "not a restaurant or bar (a store, dispensary, institution, stand or service kitchen)",
+  "sources": [
+   "able"
+  ],
+  "licence_types": [
+   "Small Farm Winery"
+  ],
+  "last_inspection": null
+ },
+ {
+  "name": "Regal Cinemas Spotlight 14",
+  "street": "1100 N Interstate Dr",
+  "why": "a cinema",
+  "sources": [
+   "able",
+   "osdh"
+  ],
+  "licence_types": [
+   "Beer and Wine"
+  ],
+  "last_inspection": "2026-09-24"
+ },
+ {
+  "name": "Cruise in Auto Spa",
+  "street": "1235 W Main St",
+  "why": "a car wash",
+  "sources": [
+   "able"
+  ],
+  "licence_types": [
+   "Beer and Wine"
+  ],
+  "last_inspection": null
+ },
+ {
+  "name": "AMC Robinson Crossing 6",
+  "street": "1300 N Interstate Dr",
+  "why": "a cinema",
+  "sources": [
+   "able",
+   "osdh"
+  ],
+  "licence_types": [
+   "Mixed Beverage"
+  ],
+  "last_inspection": "2026-03-18"
+ },
+ {
+  "name": "McCasland Field House Levy Restaurant",
+  "street": "151 E Brooks St",
+  "why": "concessions operator for OU venues, not a public restaurant",
+  "sources": [
+   "able",
+   "osdh"
+  ],
+  "licence_types": [
+   "Mixed Beverage"
+  ],
+  "last_inspection": "2026-09-27"
+ },
+ {
+  "name": "Riverwind Beverage",
+  "street": "1544 W Hwy 9",
+  "why": "the casino's beverage licence, not a venue of its own",
+  "sources": [
+   "able"
+  ],
+  "licence_types": [
+   "Mixed Beverage Combination"
+  ],
+  "last_inspection": null
+ },
+ {
+  "name": "Levy Restaurants at OU",
+  "street": "180 W Brooks St",
+  "why": "concessions operator for OU venues, not a public restaurant",
+  "sources": [
+   "able",
+   "osdh"
+  ],
+  "licence_types": [
+   "Mixed Beverage Combination"
+  ],
+  "last_inspection": "2026-09-03"
+ },
+ {
+  "name": "Five Iron Golf Club",
+  "street": "1806 24th Ave NW",
+  "why": "not a restaurant or bar (a store, dispensary, institution, stand or service kitchen)",
+  "sources": [
+   "able",
+   "osdh"
+  ],
+  "licence_types": [
+   "Mixed Beverage Combination"
+  ],
+  "last_inspection": "2026-06-18"
+ },
+ {
+  "name": "Abbey Road Catering",
+  "street": "203 Hal Muldrow Dr",
+  "why": "a caterer, no dining room",
+  "sources": [
+   "able",
+   "osdh"
+  ],
+  "licence_types": [
+   "Caterer & Storage"
+  ],
+  "last_inspection": "2026-04-16"
+ },
+ {
+  "name": "Pinot's Palette",
+  "street": "228 E Main St",
+  "why": "a paint-and-sip studio",
+  "sources": [
+   "able",
+   "osdh"
+  ],
+  "licence_types": [
+   "Beer and Wine"
+  ],
+  "last_inspection": "2026-09-25"
+ },
+ {
+  "name": "Levy Restaurants at OU",
+  "street": "2500 S Jenkins-OU Softball Complex",
+  "why": "concessions operator for OU venues, not a public restaurant",
+  "sources": [
+   "able"
+  ],
+  "licence_types": [
+   "Beer and Wine"
+  ],
+  "last_inspection": null
+ },
+ {
+  "name": "Levy Restaurants at OU",
+  "street": "2900 S Jenkins Ave",
+  "why": "concessions operator for OU venues, not a public restaurant",
+  "sources": [
+   "able"
+  ],
+  "licence_types": [
+   "Mixed Beverage"
+  ],
+  "last_inspection": null
+ },
+ {
+  "name": "Levy Restaurants at OU",
+  "street": "300 W Imhoff Rd",
+  "why": "concessions operator for OU venues, not a public restaurant",
+  "sources": [
+   "able",
+   "osdh"
+  ],
+  "licence_types": [
+   "Mixed Beverage"
+  ],
+  "last_inspection": "2026-03-06"
+ },
+ {
+  "name": "Stonehill Norman",
+  "street": "3100 Medical Park Pl",
+  "why": "a senior-living community (members only)",
+  "sources": [
+   "able",
+   "osdh"
+  ],
+  "licence_types": [
+   "Mixed Beverage"
+  ],
+  "last_inspection": "2026-01-05"
+ },
+ {
+  "name": "Next Gen Sports",
+  "street": "315 OPPORTUNITY Dr",
+  "why": "a sports complex",
+  "sources": [
+   "able"
+  ],
+  "licence_types": [
+   "Beer and Wine"
+  ],
+  "last_inspection": null
+ },
+ {
+  "name": "Trails Golf Club",
+  "street": "3200 S Berry Rd",
+  "why": "not a restaurant or bar (a store, dispensary, institution, stand or service kitchen)",
+  "sources": [
+   "able",
+   "osdh"
+  ],
+  "licence_types": [
+   "Mixed Beverage"
+  ],
+  "last_inspection": "2026-08-15"
+ },
+ {
+  "name": "Cruise In Auto Spa",
+  "street": "3250 W Robinson St",
+  "why": "a car wash",
+  "sources": [
+   "able"
+  ],
+  "licence_types": [
+   "Beer and Wine"
+  ],
+  "last_inspection": null
+ },
+ {
+  "name": "Levy Restaurants at OU",
+  "street": "401 Imhoff Rd",
+  "why": "concessions operator for OU venues, not a public restaurant",
+  "sources": [
+   "able",
+   "osdh"
+  ],
+  "licence_types": [
+   "Mixed Beverage"
+  ],
+  "last_inspection": "2026-10-09"
+ },
+ {
+  "name": "Levy Restaurants at OU",
+  "street": "500 W Imhoff Rd",
+  "why": "concessions operator for OU venues, not a public restaurant",
+  "sources": [
+   "able",
+   "osdh"
+  ],
+  "licence_types": [
+   "Beer and Wine"
+  ],
+  "last_inspection": "2026-04-25"
+ },
+ {
+  "name": "Midway Grocery & Market",
+  "street": "601 W Eufaula Street",
+  "why": "the grocery's caterer licence (see Midway Deli)",
+  "sources": [
+   "able",
+   "osdh",
+   "osm"
+  ],
+  "licence_types": [
+   "Beer and Wine",
+   "Caterer & Storage"
+  ],
+  "last_inspection": "2026-03-09"
+ },
+ {
+  "name": "Library Bar & Grill",
+  "street": "607 W BOYD St",
+  "why": "not a restaurant or bar (a store, dispensary, institution, stand or service kitchen)",
+  "sources": [
+   "able",
+   "osdh",
+   "osm"
+  ],
+  "licence_types": [
+   "Mixed Beverage"
+  ],
+  "last_inspection": "2026-03-03"
+ },
+ {
+  "name": "Pit and Pie",
+  "street": "1117 TROUT AVE",
+  "why": "no current liquor licence and no health inspection in the last 480 days",
+  "sources": [
+   "osdh"
+  ],
+  "licence_types": [],
+  "last_inspection": "2025-05-13"
+ }
+]

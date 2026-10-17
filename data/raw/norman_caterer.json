@@ -1,0 +1,71 @@
+{
+ "type": "ABC/LBD/Caterer/License",
+ "city": "Norman",
+ "pulled_at": "2026-10-17T13:46:25",
+ "ok": true,
+ "rows": [
+  {
+   "date": "11/13/2023",
+   "record": "CAT-23-000005",
+   "type": "Caterer & Storage License",
+   "name": "Countdown Events",
+   "status": "Expired",
+   "expiration": "11/13/2025",
+   "address": "4701 N Porter Ave, Norman OK 73071",
+   "href": "/ABLE/Cap/CapDetail.aspx?Module=ABC&TabName=ABC&capID1=REC23&capID2=00000&capID3=03HC0&agencyCode=ABLE&IsToShowInspection=",
+   "raw": [
+    "",
+    "11/13/2023",
+    "CAT-23-000005",
+    "Caterer & Storage License",
+    "Countdown Events",
+    "11/13/2025",
+    "Expired",
+    "",
+    "4701 N Porter Ave, Norman OK 73071"
+   ]
+  },
+  {
+   "date": "09/27/2023",
+   "record": "CAT-23-000003",
+   "type": "Caterer & Storage License",
+   "name": "Midway Grocery & Market",
+   "status": "Active",
+   "expiration": "09/27/2027",
+   "address": "601 W Eufaula Street, Norman OK 73069 United States",
+   "href": "/ABLE/Cap/CapDetail.aspx?Module=ABC&TabName=ABC&capID1=REC23&capID2=00000&capID3=031AB&agencyCode=ABLE&IsToShowInspection=",
+   "raw": [
+    "",
+    "09/27/2023",
+    "CAT-23-000003",
+    "Caterer & Storage License",
+    "Midway Grocery & Market",
+    "09/27/2027",
+    "Active",
+    "",
+    "601 W Eufaula Street, Norman OK 73069 United States"
+   ]
+  },
+  {
+   "date": "06/06/2022",
+   "record": "632833",
+   "type": "Caterer & Storage License",
+   "name": "ABBEY ROAD CATERING",
+   "status": "Active",
+   "expiration": "06/04/2027",
+   "address": "203 Hal Muldrow Dr, NORMAN OK 73069 United States",
+   "href": "/ABLE/Cap/CapDetail.aspx?Module=ABC&TabName=ABC&capID1=REC22&capID2=00000&capID3=011MW&agencyCode=ABLE&IsToShowInspection=",
+   "raw": [
+    "",
+    "06/06/2022",
+    "632833",
+    "Caterer & Storage License",
+    "ABBEY ROAD CATERING",
+    "06/04/2027",
+    "Active",
+    "",
+    "203 Hal Muldrow Dr, NORMAN OK 73069 United States"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,4379 @@
+{
+"100 calypso cove ave  73026": {
+"lat": 35.213051,
+"lon": -97.24733,
+"matched": true,
+"matched_address": "100 CALYPSO COVE AVE, NORMAN, OK, 73026",
+"quality": "Exact"
+},
+"100 e lindsey st  73019": {
+"lat": 35.203803,
+"lon": -97.441165,
+"matched": true,
+"matched_address": "100 E LINDSEY ST, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"1000 24th ave nw  73069": {
+"lat": 35.23006,
+"lon": -97.480473,
+"matched": true,
+"matched_address": "1000 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1000 alameda #140b  73071": {
+"lat": 35.218312,
+"lon": -97.427748,
+"matched": true,
+"matched_address": "1000 ALAMEDA ST, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"1000 alameda st  73071": {
+"lat": 35.218312,
+"lon": -97.427748,
+"matched": true,
+"matched_address": "1000 ALAMEDA ST, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1000 alameda st 102b 73069": {
+"lat": 35.218312,
+"lon": -97.427748,
+"matched": true,
+"matched_address": "1000 ALAMEDA ST, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"1000 alameda st 109-110 73071": {
+"lat": 35.218312,
+"lon": -97.427748,
+"matched": true,
+"matched_address": "1000 ALAMEDA ST, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1000 alameda st 140-b 73071": {
+"lat": 35.218312,
+"lon": -97.427748,
+"matched": true,
+"matched_address": "1000 ALAMEDA ST, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1000 asp ave  73019": {
+"lat": 35.209224,
+"lon": -97.443761,
+"matched": true,
+"matched_address": "1000 ASP AVE, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"1000 e alameda #120  73071": {
+"lat": 35.218312,
+"lon": -97.427748,
+"matched": true,
+"matched_address": "1000 ALAMEDA ST, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"1000 e alameda st 102 73071": {
+"lat": 35.218312,
+"lon": -97.427748,
+"matched": true,
+"matched_address": "1000 ALAMEDA ST, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"1002 24th ave sw  73069": {
+"lat": 35.205881,
+"lon": -97.476724,
+"matched": true,
+"matched_address": "1002 24TH AVE SW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1002 n porter ave  73069": {
+"lat": 35.230575,
+"lon": -97.441141,
+"matched": true,
+"matched_address": "1002 N PORTER AVE, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"1004 24th ave nw 100 73069": {
+"lat": 35.23012,
+"lon": -97.480473,
+"matched": true,
+"matched_address": "1004 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1005 lexington ave  73069": {
+"lat": 35.24085,
+"lon": -97.459754,
+"matched": true,
+"matched_address": "Lexington Avenue, Norman, Cleveland County, Oklahoma, 73069, United States",
+"nominatim_tried": true,
+"quality": "nominatim:tertiary"
+},
+"101 ed noble pkwy  73072": {
+"lat": 35.218264,
+"lon": -97.489894,
+"matched": true,
+"matched_address": "101 ED NOBLE PKWY, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"101 n porter  73071": {
+"lat": 35.222739,
+"lon": -97.43909,
+"matched": true,
+"matched_address": "101 N PORTER AVE, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"101 n porter ave  73071": {
+"lat": 35.222739,
+"lon": -97.43909,
+"matched": true,
+"matched_address": "101 N PORTER AVE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"101 s porter ave  73071": {
+"lat": 35.222637,
+"lon": -97.439026,
+"matched": true,
+"matched_address": "101 S PORTER AVE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1017 fairway dr  73069": {
+"lat": 35.232206,
+"lon": -97.478946,
+"matched": true,
+"matched_address": "1017 FAIRWAY DR, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"102 w main st  73069": {
+"lat": 35.220586,
+"lon": -97.443978,
+"matched": true,
+"matched_address": "102 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1021 36th ave nw  73072": {
+"lat": 35.230683,
+"lon": -97.49435,
+"matched": true,
+"matched_address": "1021 36TH AVE NW, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1024 24th ave nw  73069": {
+"lat": 35.230424,
+"lon": -97.480471,
+"matched": true,
+"matched_address": "1024 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1025 e indian hills rd  73071": {
+"lat": 35.290819,
+"lon": -97.426336,
+"matched": true,
+"matched_address": "1025 E INDIAN HILLS RD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1028 n porter ave  73071": {
+"lat": 35.230672,
+"lon": -97.441141,
+"matched": true,
+"matched_address": "1028 N PORTER AVE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"103 w apache st  73069": {
+"lat": 35.216979,
+"lon": -97.441589,
+"matched": true,
+"matched_address": "103 W APACHE ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1032 n porter ave  73071": {
+"lat": 35.230687,
+"lon": -97.441141,
+"matched": true,
+"matched_address": "1032 N PORTER AVE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"104 east gray st  73069": {
+"lat": 35.221918,
+"lon": -97.443732,
+"matched": true,
+"matched_address": "104 E GRAY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1049 12th ave ne  73071": {
+"lat": 35.230611,
+"lon": -97.423456,
+"matched": true,
+"matched_address": "1049 12TH AVE NE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"105 12th ave se  73071": {
+"lat": 35.218247,
+"lon": -97.423552,
+"matched": true,
+"matched_address": "105 12TH AVE SE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"105 e boyd st  73069": {
+"lat": 35.211171,
+"lon": -97.441123,
+"matched": true,
+"matched_address": "105 E BOYD ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"105 w main st  73069": {
+"lat": 35.22063,
+"lon": -97.444183,
+"matched": true,
+"matched_address": "105 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1050 ed noble, pkwy  73072": {
+"lat": 35.20555,
+"lon": -97.48288,
+"matched": true,
+"matched_address": "1050 ED NOBLE PKWY, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1050 n flood ave  73069": {
+"lat": 35.227366,
+"lon": -97.453062,
+"matched": true,
+"matched_address": "1050 N FLOOD AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"10500 e lindsey st  73026": {
+"lat": 35.20364,
+"lon": -97.286046,
+"matched": true,
+"matched_address": "10500 E LINDSEY ST, NORMAN, OK, 73026",
+"quality": "Exact"
+},
+"106 e main st  73069": {
+"lat": 35.220948,
+"lon": -97.443074,
+"matched": true,
+"matched_address": "106 E MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"106 w main st  73069": {
+"lat": 35.220564,
+"lon": -97.444031,
+"matched": true,
+"matched_address": "106 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"110 12th ave ne  73071": {
+"lat": 35.219141,
+"lon": -97.423696,
+"matched": true,
+"matched_address": "110 12TH AVE NE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"110 24th ave sw  73069": {
+"lat": 35.21766,
+"lon": -97.476725,
+"matched": true,
+"matched_address": "110 24TH AVE SW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"110 ed noble parkway  73072": {
+"lat": 35.21709,
+"lon": -97.489525,
+"matched": true,
+"matched_address": "110 ED NOBLE PKWY, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"110 w main st  73069": {
+"lat": 35.220542,
+"lon": -97.444084,
+"matched": true,
+"matched_address": "110 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1100 college ave  73072": {
+"lat": 35.201983,
+"lon": -97.4491,
+"matched": true,
+"matched_address": "1100 COLLEGE AVE, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1100 e constitution  73072": {
+"lat": 35.191958,
+"lon": -97.425295,
+"matched": true,
+"matched_address": "1100 E CONSTITUTION ST, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"1100 e constitution st  73071": {
+"lat": 35.191958,
+"lon": -97.425295,
+"matched": true,
+"matched_address": "1100 E CONSTITUTION ST, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"1100 e constitution st  73072": {
+"lat": 35.191958,
+"lon": -97.425295,
+"matched": true,
+"matched_address": "1100 E CONSTITUTION ST, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1100 e constitution st 110 73072": {
+"lat": 35.191958,
+"lon": -97.425295,
+"matched": true,
+"matched_address": "1100 E CONSTITUTION ST, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1100 n interstate dr  73160": {
+"lat": 35.231306,
+"lon": -97.486358,
+"matched": true,
+"matched_address": "1100 N INTERSTATE DR, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"1100 n porter  73071": {
+"lat": 35.231494,
+"lon": -97.441142,
+"matched": true,
+"matched_address": "1100 N PORTER AVE, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"1101 12th ave ne  73071": {
+"lat": 35.231233,
+"lon": -97.423447,
+"matched": true,
+"matched_address": "1101 12TH AVE NE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1101 24th ave nw  73069": {
+"lat": 35.231663,
+"lon": -97.480326,
+"matched": true,
+"matched_address": "1101 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1105 college ave  73072": {
+"lat": 35.201941,
+"lon": -97.448958,
+"matched": true,
+"matched_address": "1105 COLLEGE AVE, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1106 24th ave se  73071": {
+"lat": 35.204895,
+"lon": -97.406092,
+"matched": true,
+"matched_address": "1106 24TH AVE SE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"111 n berry rd  73069": {
+"lat": 35.21857,
+"lon": -97.458898,
+"matched": true,
+"matched_address": "111 N BERRY RD, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1115 college ave  73069": {
+"lat": 35.201827,
+"lon": -97.448955,
+"matched": true,
+"matched_address": "1115 COLLEGE AVE, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"1115 e constitution st  73072": {
+"lat": 35.192142,
+"lon": -97.425176,
+"matched": true,
+"matched_address": "1115 E CONSTITUTION ST, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1117 trout ave  73069": {
+"lat": 35.209456,
+"lon": -97.438786,
+"matched": true,
+"matched_address": "1117 TROUT AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1119 e constitution st  73072": {
+"lat": 35.192165,
+"lon": -97.425123,
+"matched": true,
+"matched_address": "1119 E CONSTITUTION ST, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"112 w main st  73069": {
+"lat": 35.220531,
+"lon": -97.44411,
+"matched": true,
+"matched_address": "112 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1120 n berry rd  73069": {
+"lat": 35.232248,
+"lon": -97.459066,
+"matched": true,
+"matched_address": "1120 N BERRY RD, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1123 w lindsey st  73072": {
+"lat": 35.203964,
+"lon": -97.459108,
+"matched": true,
+"matched_address": "1123 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"113 hal muldrow dr  73069": {
+"lat": 35.218206,
+"lon": -97.472801,
+"matched": true,
+"matched_address": "113 HAL MULDROW DR, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"113 n crawford ave  73069": {
+"lat": 35.222277,
+"lon": -97.440569,
+"matched": true,
+"matched_address": "113 N CRAWFORD AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1130 alameda st  73071": {
+"lat": 35.218317,
+"lon": -97.424099,
+"matched": true,
+"matched_address": "1130 ALAMEDA ST, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1131 rambling oaks dr  73072": {
+"lat": 35.231617,
+"lon": -97.489716,
+"matched": true,
+"matched_address": "1131 RAMBLING OAKS DR, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"11395 e state highway 9  73026": {
+"lat": 35.18952,
+"lon": -97.274704,
+"matched": true,
+"matched_address": "11395 STATE HWY 9, NORMAN, OK, 73026",
+"quality": "Non_Exact"
+},
+"115 12th ave se 110 73071": {
+"lat": 35.218072,
+"lon": -97.423551,
+"matched": true,
+"matched_address": "115 12TH AVE SE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"115 n webster ave 103 73069": {
+"lat": 35.219692,
+"lon": -97.446775,
+"matched": true,
+"matched_address": "115 N WEBSTER AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1150 alameda st  73071": {
+"lat": 35.218317,
+"lon": -97.42398,
+"matched": true,
+"matched_address": "1150 ALAMEDA ST, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1150 e cedar lane rd  73072": {
+"lat": 35.175009,
+"lon": -97.424295,
+"matched": true,
+"matched_address": "1150 E CEDAR LANE RD, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1150 e cedar lane rd 100 73072": {
+"lat": 35.175009,
+"lon": -97.424295,
+"matched": true,
+"matched_address": "1150 E CEDAR LANE RD, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1150 e cedar lane rd 110 73072": {
+"lat": 35.175009,
+"lon": -97.424295,
+"matched": true,
+"matched_address": "1150 E CEDAR LANE RD, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1150 ed noble parkway  73072": {
+"lat": 35.204542,
+"lon": -97.48365,
+"matched": true,
+"matched_address": "1150 ED NOBLE PKWY, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1150 w lindsey  73069": {
+"lat": 35.203848,
+"lon": -97.458439,
+"matched": true,
+"matched_address": "1150 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"1151 e rock creek rd 130 73071": {
+"lat": 35.247394,
+"lon": -97.424349,
+"matched": true,
+"matched_address": "1151 E ROCK CREEK RD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1161 12th ave ne  73071": {
+"lat": 35.23219,
+"lon": -97.423435,
+"matched": true,
+"matched_address": "1161 12TH AVE NE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1161 12th ave ne c 73071": {
+"lat": 35.23219,
+"lon": -97.423435,
+"matched": true,
+"matched_address": "1161 12TH AVE NE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1161 rambling oaks  73072": {
+"lat": 35.232292,
+"lon": -97.489294,
+"matched": true,
+"matched_address": "1161 RAMBLING OAKS DR, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"117 ed noble parkway  73072": {
+"lat": 35.217264,
+"lon": -97.489042,
+"matched": true,
+"matched_address": "117 ED NOBLE PKWY, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"119 w boyd st  73069": {
+"lat": 35.211174,
+"lon": -97.441508,
+"matched": true,
+"matched_address": "119 W BOYD ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"119 w boyd st 104 73069": {
+"lat": 35.211174,
+"lon": -97.441508,
+"matched": true,
+"matched_address": "119 W BOYD ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"120 12th ave ne  73071": {
+"lat": 35.21956,
+"lon": -97.423696,
+"matched": true,
+"matched_address": "120 12TH AVE NE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"120 david l boren blvd  73019": {
+"lat": 35.182911,
+"lon": -97.440041,
+"matched": true,
+"matched_address": "120, David L Boren Boulevard, Norman, Cleveland County, Oklahoma, 73072, United States",
+"nominatim_tried": true,
+"quality": "nominatim:house"
+},
+"1200 12th ave se 106 73071": {
+"lat": 35.202831,
+"lon": -97.423717,
+"matched": true,
+"matched_address": "1200 12TH AVE SE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1200 alameda st  73071": {
+"lat": 35.218317,
+"lon": -97.423553,
+"matched": true,
+"matched_address": "1200 ALAMEDA ST, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1200 asp ave  73019": {
+"lat": 35.20574,
+"lon": -97.444273,
+"matched": true,
+"matched_address": "Asp Avenue, Norman, Cleveland County, Oklahoma, 73019, United States",
+"nominatim_tried": true,
+"quality": "nominatim:tertiary"
+},
+"1200 robinson crossing  73072": {
+"lat": 35.234309,
+"lon": -97.487443,
+"matched": true,
+"matched_address": "Robinson Crossing Shopping Center, 1300, Norman, Cleveland County, Oklahoma, 73072, United States",
+"nominatim_tried": true,
+"quality": "nominatim:commercial"
+},
+"1200 s college ave  73072": {
+"lat": 35.200757,
+"lon": -97.449078,
+"matched": true,
+"matched_address": "1200 COLLEGE AVE, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"1200 w lindsey st  73069": {
+"lat": 35.20385,
+"lon": -97.459047,
+"matched": true,
+"matched_address": "1200 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1201 e alameda  73071": {
+"lat": 35.218431,
+"lon": -97.423553,
+"matched": true,
+"matched_address": "1201 ALAMEDA ST, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"1201 e lindsey st  73071": {
+"lat": 35.20388,
+"lon": -97.423571,
+"matched": true,
+"matched_address": "1201 E LINDSEY ST, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1203 elm ave  73072": {
+"lat": 35.20075,
+"lon": -97.447827,
+"matched": true,
+"matched_address": "1203 ELM AVE, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1204 interstate dr 150 73072": {
+"lat": 35.23318,
+"lon": -97.488447,
+"matched": true,
+"matched_address": "1204, North Interstate Drive, Norman, Cleveland County, Oklahoma, 73072, United States",
+"nominatim_tried": true,
+"quality": "nominatim:house"
+},
+"1204 n interstate dr 130 73072": {
+"lat": 35.233405,
+"lon": -97.487986,
+"matched": true,
+"matched_address": "1204 N INTERSTATE DR, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1205 e lindsey st  73071": {
+"lat": 35.20388,
+"lon": -97.42351,
+"matched": true,
+"matched_address": "1205 E LINDSEY ST, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"121 e main st 100 73069": {
+"lat": 35.221124,
+"lon": -97.442956,
+"matched": true,
+"matched_address": "121 E MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1214 w lindsay  73069": {
+"lat": 35.203849,
+"lon": -97.459522,
+"matched": true,
+"matched_address": "1214 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"1219 alameda st  73071": {
+"lat": 35.218428,
+"lon": -97.421354,
+"matched": true,
+"matched_address": "1219 ALAMEDA ST, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1220 classen blvd 102 73071": {
+"lat": 35.212117,
+"lon": -97.436519,
+"matched": true,
+"matched_address": "1220 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1222 w lindsay st  73069": {
+"lat": 35.203848,
+"lon": -97.459649,
+"matched": true,
+"matched_address": "1222 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"1224 alameda st  73071": {
+"lat": 35.218316,
+"lon": -97.422908,
+"matched": true,
+"matched_address": "1224 ALAMEDA ST, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1226 classen blvd  73071": {
+"lat": 35.212044,
+"lon": -97.43652,
+"matched": true,
+"matched_address": "1226 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"123 e main st  73069": {
+"lat": 35.221135,
+"lon": -97.44293,
+"matched": true,
+"matched_address": "123 E MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"123 n interstate dr  73069": {
+"lat": 35.218882,
+"lon": -97.482253,
+"matched": true,
+"matched_address": "123 N INTERSTATE DR, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"123 w main st  73069": {
+"lat": 35.220541,
+"lon": -97.444399,
+"matched": true,
+"matched_address": "123 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1230 alameda st  73071": {
+"lat": 35.218316,
+"lon": -97.422747,
+"matched": true,
+"matched_address": "1230 ALAMEDA ST, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1230 e lindsay st  73069": {
+"lat": 35.203768,
+"lon": -97.423106,
+"matched": true,
+"matched_address": "1230 E LINDSEY ST, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"1230 e lindsey st  73071": {
+"lat": 35.203768,
+"lon": -97.423106,
+"matched": true,
+"matched_address": "1230 E LINDSEY ST, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1230 w main st  73069": {
+"lat": 35.218368,
+"lon": -97.459341,
+"matched": true,
+"matched_address": "1230 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1235 w main st  73069": {
+"lat": 35.218491,
+"lon": -97.460165,
+"matched": true,
+"matched_address": "1235 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1236 alameda st  73071": {
+"lat": 35.218316,
+"lon": -97.422586,
+"matched": true,
+"matched_address": "1236 ALAMEDA ST, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1241 e alameda st  73071": {
+"lat": 35.218428,
+"lon": -97.421211,
+"matched": true,
+"matched_address": "1241 ALAMEDA ST, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"125 n interstate  73071": {
+"lat": 35.218888,
+"lon": -97.482293,
+"matched": true,
+"matched_address": "125 N INTERSTATE DR, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"1250 24th avew nw  73069": {
+"lat": 35.231989,
+"lon": -97.480464,
+"matched": true,
+"matched_address": "1250 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"1251 triad village dr  73071": {
+"lat": 35.214217,
+"lon": -97.422163,
+"matched": true,
+"matched_address": "1251 TRIAD VILLAGE DR, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"126 w main st  73069": {
+"lat": 35.220455,
+"lon": -97.444295,
+"matched": true,
+"matched_address": "126 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1262 n interstate dr  73072": {
+"lat": 35.235553,
+"lon": -97.484802,
+"matched": true,
+"matched_address": "North Interstate Drive, Norman, Cleveland County, Oklahoma, 73072, United States",
+"nominatim_tried": true,
+"quality": "nominatim:tertiary"
+},
+"127 24th ave nw  73069": {
+"lat": 35.218994,
+"lon": -97.476576,
+"matched": true,
+"matched_address": "127 NW 24TH AVE, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"127 w main st  73069": {
+"lat": 35.220521,
+"lon": -97.444447,
+"matched": true,
+"matched_address": "127 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1278 n interstate dr  73072": {
+"lat": 35.233427,
+"lon": -97.486733,
+"matched": true,
+"matched_address": "1278 N INTERSTATE DR, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1300 12th ave se #200 73071": {
+"lat": 35.20212,
+"lon": -97.423705,
+"matched": true,
+"matched_address": "1300 12TH AVE SE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1300 12th avenue southeast 230 73071": {
+"lat": 35.20212,
+"lon": -97.423705,
+"matched": true,
+"matched_address": "1300 12TH AVE SE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1300 24th avenue northwest  73069": {
+"lat": 35.234139,
+"lon": -97.482438,
+"matched": true,
+"matched_address": "Cheddar's, 1300, 24th Avenue Northwest, Norman, Cleveland County, Oklahoma, 73069, United States",
+"nominatim_tried": true,
+"quality": "nominatim:restaurant"
+},
+"1300 classen blvd  73071": {
+"lat": 35.211037,
+"lon": -97.436433,
+"matched": true,
+"matched_address": "1300 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1300 e lindsey st  73071": {
+"lat": 35.203776,
+"lon": -97.421912,
+"matched": true,
+"matched_address": "1300 E LINDSEY ST, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1300 n interstate dr  73072": {
+"lat": 35.236432,
+"lon": -97.486244,
+"matched": true,
+"matched_address": "North Interstate Drive, Norman, Cleveland County, Oklahoma, 73072, United States",
+"nominatim_tried": true,
+"quality": "nominatim:tertiary"
+},
+"1303 w tecumseh road #628  73069": {
+"lat": 35.261939,
+"lon": -97.460274,
+"matched": true,
+"matched_address": "1303 W TECUMSEH RD, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1305 n porter ave  73071": {
+"lat": 35.232949,
+"lon": -97.441004,
+"matched": true,
+"matched_address": "1305 N PORTER AVE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1310 e lindsey st  73071": {
+"lat": 35.20378,
+"lon": -97.421237,
+"matched": true,
+"matched_address": "1310 E LINDSEY ST, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1313 w lindsay  73069": {
+"lat": 35.203961,
+"lon": -97.460858,
+"matched": true,
+"matched_address": "1313 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"1313 w lindsey st  73069": {
+"lat": 35.203961,
+"lon": -97.460858,
+"matched": true,
+"matched_address": "1313 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1316 n interstate dr  73072": {
+"lat": 35.234481,
+"lon": -97.485942,
+"matched": true,
+"matched_address": "1316 N INTERSTATE DR, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1318 n interstate dr  73072": {
+"lat": 35.234508,
+"lon": -97.485942,
+"matched": true,
+"matched_address": "1318 N INTERSTATE DR, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"132 w main st  73069": {
+"lat": 35.220422,
+"lon": -97.444375,
+"matched": true,
+"matched_address": "132 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1320 college ave  73072": {
+"lat": 35.198184,
+"lon": -97.44908,
+"matched": true,
+"matched_address": "1320 COLLEGE AVE, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1321 e lindsey st  73071": {
+"lat": 35.203896,
+"lon": -97.421084,
+"matched": true,
+"matched_address": "1321 E LINDSEY ST, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1324 n interstate  73072": {
+"lat": 35.23459,
+"lon": -97.485943,
+"matched": true,
+"matched_address": "1324 N INTERSTATE DR, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"1333 w lindsey st  73069": {
+"lat": 35.203961,
+"lon": -97.461107,
+"matched": true,
+"matched_address": "1333 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"13425 chaparral rd  73026": {
+"lat": 35.192916,
+"lon": -97.245398,
+"matched": true,
+"matched_address": "13425 CHAPARRAL RD, NORMAN, OK, 73026",
+"quality": "Exact"
+},
+"1353 24th ave nw  73069": {
+"lat": 35.234552,
+"lon": -97.480247,
+"matched": true,
+"matched_address": "1353 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1361 24th ave nw  73069": {
+"lat": 35.234791,
+"lon": -97.480258,
+"matched": true,
+"matched_address": "1361 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"13801 marina rd  73026": {
+"lat": 35.231619,
+"lon": -97.24009,
+"matched": true,
+"matched_address": "13801 MARINA RD, NORMAN, OK, 73026",
+"quality": "Exact"
+},
+"1400 12th ave se #312  73071": {
+"lat": 35.201282,
+"lon": -97.423691,
+"matched": true,
+"matched_address": "1400 12TH AVE SE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1400 12th ave se 330 73071": {
+"lat": 35.201282,
+"lon": -97.423691,
+"matched": true,
+"matched_address": "1400 12TH AVE SE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1400 12th avenue southeast 348 73071": {
+"lat": 35.201282,
+"lon": -97.423691,
+"matched": true,
+"matched_address": "1400 12TH AVE SE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1400 24th ave nw  73069": {
+"lat": 35.235831,
+"lon": -97.48104,
+"matched": true,
+"matched_address": "1400 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1400 college ave  73072": {
+"lat": 35.197476,
+"lon": -97.448936,
+"matched": true,
+"matched_address": "1400 COLLEGE AVE, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1401 24th ave nw  73069": {
+"lat": 35.235972,
+"lon": -97.480772,
+"matched": true,
+"matched_address": "1401 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1401 college ave  73072": {
+"lat": 35.19953,
+"lon": -97.448931,
+"matched": true,
+"matched_address": "1401 COLLEGE AVE, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1405 elm ave  73072": {
+"lat": 35.198575,
+"lon": -97.447827,
+"matched": true,
+"matched_address": "1405 ELM AVE, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1406 asp ave rm 207a  73019": {
+"lat": 35.201965,
+"lon": -97.444254,
+"matched": true,
+"matched_address": "1406 ASP AVE, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"1411 elm ave  73072": {
+"lat": 35.197344,
+"lon": -97.448387,
+"matched": true,
+"matched_address": "1411 ELM AVE, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1415 w main st  73069": {
+"lat": 35.218497,
+"lon": -97.461803,
+"matched": true,
+"matched_address": "1415 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1419 e alameda  73071": {
+"lat": 35.218421,
+"lon": -97.419363,
+"matched": true,
+"matched_address": "1419 ALAMEDA ST, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"1420 n porter ave  73069": {
+"lat": 35.234374,
+"lon": -97.441153,
+"matched": true,
+"matched_address": "1420 N PORTER AVE, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"1424 w lindsey st  73069": {
+"lat": 35.203843,
+"lon": -97.463878,
+"matched": true,
+"matched_address": "1424 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1430 w lindsey st a-e 73069": {
+"lat": 35.203843,
+"lon": -97.46393,
+"matched": true,
+"matched_address": "1430 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1432 24th ave nw  73069": {
+"lat": 35.236245,
+"lon": -97.481355,
+"matched": true,
+"matched_address": "1432 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1440 w lindsey  73069": {
+"lat": 35.203842,
+"lon": -97.464018,
+"matched": true,
+"matched_address": "1440 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"149 12th avenue southeast c 73017": {
+"lat": 35.21778,
+"lon": -97.423549,
+"matched": true,
+"matched_address": "149 12TH AVE SE, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"1500 nw 24th ave northwest  73069": {
+"lat": 35.237251,
+"lon": -97.481977,
+"matched": true,
+"matched_address": "1500 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"1501 elm ave  73072": {
+"lat": 35.196835,
+"lon": -97.448423,
+"matched": true,
+"matched_address": "1501 ELM AVE, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1506 southern shores dr  73026": {
+"lat": 35.202995,
+"lon": -97.276223,
+"matched": true,
+"matched_address": "1506 SOUTHERN SHORES DR, NORMAN, OK, 73026",
+"quality": "Exact"
+},
+"1506 w lindsey  73069": {
+"lat": 35.203841,
+"lon": -97.464594,
+"matched": true,
+"matched_address": "1506 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"151 e brooks st  73069": {
+"lat": 35.207523,
+"lon": -97.440244,
+"matched": true,
+"matched_address": "151 E BROOKS ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1514 w lindsey st  73069": {
+"lat": 35.20384,
+"lon": -97.464664,
+"matched": true,
+"matched_address": "1514 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1521 w lindsey  73069": {
+"lat": 35.203952,
+"lon": -97.465572,
+"matched": true,
+"matched_address": "1521 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"1522 w lindsey st  73069": {
+"lat": 35.20384,
+"lon": -97.464734,
+"matched": true,
+"matched_address": "1522 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1538 pecan ave  73072": {
+"lat": 35.199302,
+"lon": -97.47288,
+"matched": true,
+"matched_address": "1538 PECAN AVE, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1540 24th ave nw  73069": {
+"lat": 35.237659,
+"lon": -97.482142,
+"matched": true,
+"matched_address": "1540 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1544 w hwy 9  73072": {
+"lat": null,
+"lon": null,
+"matched": false,
+"matched_address": "",
+"nominatim_tried": true,
+"quality": ""
+},
+"1551 ann branden blvd  73071": {
+"lat": 35.182388,
+"lon": -97.416648,
+"matched": true,
+"matched_address": "1551 ANN BRANDEN BLVD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"156 se 12th ave 152 73071": {
+"lat": 35.217257,
+"lon": -97.423687,
+"matched": true,
+"matched_address": "156 12TH AVE SE, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"15700 e state highway 9  73026": {
+"lat": null,
+"lon": null,
+"matched": false,
+"matched_address": "",
+"nominatim_tried": true,
+"quality": ""
+},
+"1580 24th ave nw  73069": {
+"lat": 35.238072,
+"lon": -97.482277,
+"matched": true,
+"matched_address": "1580 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"160 12th ave se  73071": {
+"lat": 35.217109,
+"lon": -97.423687,
+"matched": true,
+"matched_address": "160 12TH AVE SE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1601 24th ave nw  73069": {
+"lat": 35.240881,
+"lon": -97.48186,
+"matched": true,
+"matched_address": "1601 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1607 24th ave nw  73069": {
+"lat": 35.24103,
+"lon": -97.481803,
+"matched": true,
+"matched_address": "1607 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1611 college ave  73072": {
+"lat": 35.198123,
+"lon": -97.448939,
+"matched": true,
+"matched_address": "1611 COLLEGE AVE, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1612 atticus ave  73072": {
+"lat": null,
+"lon": null,
+"matched": false,
+"matched_address": "",
+"nominatim_tried": true,
+"quality": ""
+},
+"1613 139th ave se  73026": {
+"lat": 35.191913,
+"lon": -97.237223,
+"matched": true,
+"matched_address": "1613 139TH AVE SE, NORMAN, OK, 73026",
+"quality": "Exact"
+},
+"1615 24th ave nw  73069": {
+"lat": 35.241224,
+"lon": -97.481727,
+"matched": true,
+"matched_address": "1615 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1617 goppold ln  73069": {
+"lat": 35.238283,
+"lon": -97.478308,
+"matched": true,
+"matched_address": "Five Below, 1617, Goppold Lane, Norman, Cleveland County, Oklahoma, 73069, United States",
+"nominatim_tried": true,
+"quality": "nominatim:variety_store"
+},
+"1618 w lindsey st  73069": {
+"lat": 35.203845,
+"lon": -97.467013,
+"matched": true,
+"matched_address": "1618 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1632 w indian hills rd  73069": {
+"lat": 35.290822,
+"lon": -97.465499,
+"matched": true,
+"matched_address": "1632 W INDIAN HILLS RD, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1641 24th ave nw  73069": {
+"lat": 35.241837,
+"lon": -97.481385,
+"matched": true,
+"matched_address": "1641 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1650 w tecumseh rd  73069": {
+"lat": 35.261856,
+"lon": -97.466139,
+"matched": true,
+"matched_address": "1650 W TECUMSEH RD, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1651 24th ave nw  73069": {
+"lat": 35.242061,
+"lon": -97.48123,
+"matched": true,
+"matched_address": "1651 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1695 asp ave  73019": {
+"lat": 35.199043,
+"lon": -97.444113,
+"matched": true,
+"matched_address": "1695 ASP AVE, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"1700 lexington ave  73069": {
+"lat": 35.240753,
+"lon": -97.465503,
+"matched": true,
+"matched_address": "1700 LEXINGTON AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1703 goppold ln  73069": {
+"lat": 35.238986,
+"lon": -97.477791,
+"matched": true,
+"matched_address": "Hobby Lobby, 1703, Goppold Lane, Norman, Cleveland County, Oklahoma, 73069, United States",
+"nominatim_tried": true,
+"quality": "nominatim:craft"
+},
+"1708 24th ave sw  73072": {
+"lat": 35.197919,
+"lon": -97.476769,
+"matched": true,
+"matched_address": "1708 24TH AVE SW, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1708 w lindsey st  73069": {
+"lat": 35.203844,
+"lon": -97.466862,
+"matched": true,
+"matched_address": "1708 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1719 24th ave sw  73072": {
+"lat": 35.198758,
+"lon": -97.476631,
+"matched": true,
+"matched_address": "1719 24TH AVE SW, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1720 24th ave sw 1720 73072": {
+"lat": 35.197841,
+"lon": -97.476769,
+"matched": true,
+"matched_address": "1720 24TH AVE SW, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1720 w lindsey st  73069": {
+"lat": 35.203845,
+"lon": -97.467051,
+"matched": true,
+"matched_address": "1720 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1724 w lindsey st  73069": {
+"lat": 35.203845,
+"lon": -97.467114,
+"matched": true,
+"matched_address": "1724 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1729 w main st  73069": {
+"lat": 35.218489,
+"lon": -97.4676,
+"matched": true,
+"matched_address": "1729 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1730 w lindsey st  73069": {
+"lat": 35.203846,
+"lon": -97.467318,
+"matched": true,
+"matched_address": "1730 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1776 e robinson st  73071": {
+"lat": 35.232729,
+"lon": -97.414956,
+"matched": true,
+"matched_address": "1776 E ROBINSON ST, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"17901 e st hwy 9  73026": {
+"lat": 35.207337,
+"lon": -97.228715,
+"matched": true,
+"matched_address": "17901 STATE HWY 9, NORMAN, OK, 73026",
+"quality": "Non_Exact"
+},
+"180 w brooks  73019": {
+"lat": 35.207475,
+"lon": -97.444593,
+"matched": true,
+"matched_address": "West Brooks Street, Norman, Cleveland County, Oklahoma, 73019, United States",
+"nominatim_tried": true,
+"quality": "nominatim:pedestrian"
+},
+"180 w brooks st  73019": {
+"lat": 35.207546,
+"lon": -97.44228,
+"matched": true,
+"matched_address": "180, West Brooks Street, Norman, Cleveland County, Oklahoma, 73069, United States",
+"nominatim_tried": true,
+"quality": "nominatim:house"
+},
+"180 w brooks st  73069": {
+"lat": 35.207409,
+"lon": -97.440181,
+"matched": true,
+"matched_address": "180 E BROOKS ST, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"180 w brooks st  73109": {
+"lat": 35.207409,
+"lon": -97.440181,
+"matched": true,
+"matched_address": "180 E BROOKS ST, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"1800 24th ave nw  73069": {
+"lat": 35.240408,
+"lon": -97.482309,
+"matched": true,
+"matched_address": "1800 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1800 e imhoff rd  73071": {
+"lat": 35.189551,
+"lon": -97.415653,
+"matched": true,
+"matched_address": "1800 E IMHOFF RD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1800 n interstate dr 100 73072": {
+"lat": 35.24034,
+"lon": -97.48597,
+"matched": true,
+"matched_address": "1800 N INTERSTATE DR, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"1801 w lindsey st  73069": {
+"lat": 35.203964,
+"lon": -97.467855,
+"matched": true,
+"matched_address": "1801 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1806 24th ave nw  73069": {
+"lat": 35.24047,
+"lon": -97.482293,
+"matched": true,
+"matched_address": "1806 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1807 w lindsey st  73069": {
+"lat": 35.203968,
+"lon": -97.468535,
+"matched": true,
+"matched_address": "1807 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1808 w lindsey st 200 73069": {
+"lat": 35.203852,
+"lon": -97.468374,
+"matched": true,
+"matched_address": "1808 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1808 w lindsey st 300 73069": {
+"lat": 35.203852,
+"lon": -97.468374,
+"matched": true,
+"matched_address": "1808 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1808 w lindsey st 400 73069": {
+"lat": 35.203852,
+"lon": -97.468374,
+"matched": true,
+"matched_address": "1808 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1809 stubbeman ave  73069": {
+"lat": 35.239495,
+"lon": -97.449905,
+"matched": true,
+"matched_address": "1809 STUBBEMAN AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1811 24th ave nw  73069": {
+"lat": 35.240495,
+"lon": -97.48232,
+"matched": true,
+"matched_address": "1811, 24th Avenue Northwest, Norman, Cleveland County, Oklahoma, 73069, United States",
+"nominatim_tried": true,
+"quality": "nominatim:house"
+},
+"1812 24th ave nw  73069": {
+"lat": 35.240532,
+"lon": -97.482276,
+"matched": true,
+"matched_address": "1812 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1818 w main st  73069": {
+"lat": 35.218369,
+"lon": -97.46852,
+"matched": true,
+"matched_address": "1818 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1820 legacy park dr  73069": {
+"lat": 35.239558,
+"lon": -97.484442,
+"matched": true,
+"matched_address": "1820 LEGACY PARK DR, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1825 24th ave nw  73069": {
+"lat": 35.240637,
+"lon": -97.48228,
+"matched": true,
+"matched_address": "1825, 24th Avenue Northwest, Norman, Cleveland County, Oklahoma, 73069, United States",
+"nominatim_tried": true,
+"quality": "nominatim:house"
+},
+"18448 e state highway 9  73026": {
+"lat": 35.232015,
+"lon": -97.171097,
+"matched": true,
+"matched_address": "18448 STATE HWY 9, NORMAN, OK, 73026",
+"quality": "Non_Exact"
+},
+"18450 e st hwy 9  73026": {
+"lat": 35.232015,
+"lon": -97.17106,
+"matched": true,
+"matched_address": "18450 STATE HWY 9, NORMAN, OK, 73026",
+"quality": "Non_Exact"
+},
+"185 opprotunity dr  73069": {
+"lat": null,
+"lon": null,
+"matched": false,
+"matched_address": "",
+"nominatim_tried": true,
+"quality": ""
+},
+"18932 selah way  73072": {
+"lat": null,
+"lon": null,
+"matched": false,
+"matched_address": "",
+"nominatim_tried": true,
+"quality": ""
+},
+"1904 24th ave nw  73069": {
+"lat": 35.241467,
+"lon": -97.481911,
+"matched": true,
+"matched_address": "1904 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"191 12th ave ne  73071": {
+"lat": 35.219344,
+"lon": -97.423556,
+"matched": true,
+"matched_address": "191 12TH AVE NE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1915 classen blvd 101 73072": {
+"lat": 35.204651,
+"lon": -97.432126,
+"matched": true,
+"matched_address": "1915 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"1915 classen blvd 113 73071": {
+"lat": 35.204651,
+"lon": -97.432126,
+"matched": true,
+"matched_address": "1915 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1915 classen blvd 115 73017": {
+"lat": 35.204651,
+"lon": -97.432126,
+"matched": true,
+"matched_address": "1915 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"1915 classen blvd 123 73071": {
+"lat": 35.204651,
+"lon": -97.432126,
+"matched": true,
+"matched_address": "1915 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1915 classen blvd 125 73071": {
+"lat": 35.204651,
+"lon": -97.432126,
+"matched": true,
+"matched_address": "1915 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"1915 s classen blvd 119 73071": {
+"lat": 35.204651,
+"lon": -97.432126,
+"matched": true,
+"matched_address": "1915 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"1918 w main st  73069": {
+"lat": 35.218368,
+"lon": -97.469403,
+"matched": true,
+"matched_address": "1918 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1920 atchison dr  73069": {
+"lat": 35.258911,
+"lon": -97.470236,
+"matched": true,
+"matched_address": "1920 ATCHISON DR, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1924 24th ave nw  73072": {
+"lat": 35.241664,
+"lon": -97.481808,
+"matched": true,
+"matched_address": "1924 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"1929 mount williams way  73069": {
+"lat": 35.241389,
+"lon": -97.479282,
+"matched": true,
+"matched_address": "Main Event, 1929, Mount Williams Way, Norman, Cleveland County, Oklahoma, 73069, United States",
+"nominatim_tried": true,
+"quality": "nominatim:restaurant"
+},
+"1929 mt williams dr  73069": {
+"lat": 35.237582,
+"lon": -97.481022,
+"matched": true,
+"matched_address": "Mount Williams Drive, Norman, Cleveland County, Oklahoma, 73072, United States",
+"nominatim_tried": true,
+"quality": "nominatim:tertiary"
+},
+"1951 w lindsey st  73069": {
+"lat": 35.203972,
+"lon": -97.469476,
+"matched": true,
+"matched_address": "1951 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1954 24th avenue northwest  73069": {
+"lat": 35.241953,
+"lon": -97.481635,
+"matched": true,
+"matched_address": "1954 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1959 w lindsey st  73069": {
+"lat": 35.203972,
+"lon": -97.469509,
+"matched": true,
+"matched_address": "1959 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"1965 w lindsey st  73069": {
+"lat": 35.203971,
+"lon": -97.469978,
+"matched": true,
+"matched_address": "1965 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2000 168th ave ne  73026": {
+"lat": 35.235983,
+"lon": -97.194414,
+"matched": true,
+"matched_address": "2000 168TH AVE NE, NORMAN, OK, 73026",
+"quality": "Exact"
+},
+"2000 ann branden  73071": {
+"lat": 35.186846,
+"lon": -97.407727,
+"matched": true,
+"matched_address": "2000, Ann Branden Boulevard, Norman, Cleveland County, Oklahoma, 73071, United States",
+"nominatim_tried": true,
+"quality": "nominatim:hospital"
+},
+"2001 w main st 101 73069": {
+"lat": 35.218483,
+"lon": -97.470427,
+"matched": true,
+"matched_address": "2001 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2002 e robinson  73071": {
+"lat": 35.232713,
+"lon": -97.411823,
+"matched": true,
+"matched_address": "2002 E ROBINSON ST, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"2007 w lindsey st  73069": {
+"lat": 35.203969,
+"lon": -97.470633,
+"matched": true,
+"matched_address": "2007 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"201 david l boren blvd  73072": {
+"lat": 35.183729,
+"lon": -97.438134,
+"matched": true,
+"matched_address": "Three Partners Place, 201, David L Boren Boulevard, Norman, Cleveland County, Oklahoma, 73072, United States",
+"nominatim_tried": true,
+"quality": "nominatim:university"
+},
+"201 n flood  73069": {
+"lat": 35.219306,
+"lon": -97.452928,
+"matched": true,
+"matched_address": "201 N FLOOD AVE, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"201 reed ave  73071": {
+"lat": 35.224593,
+"lon": -97.429089,
+"matched": true,
+"matched_address": "201 REED AVE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"201 s crawford avenue  73069": {
+"lat": 35.221103,
+"lon": -97.439836,
+"matched": true,
+"matched_address": "201 S CRAWFORD AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"203 hal muldrow dr  73069": {
+"lat": 35.217549,
+"lon": -97.472973,
+"matched": true,
+"matched_address": "203 HAL MULDROW DR, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2030 24th ave ne  73069": {
+"lat": 35.242639,
+"lon": -97.481103,
+"matched": true,
+"matched_address": "2030 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"2030 w lindsey st  73069": {
+"lat": 35.203851,
+"lon": -97.471363,
+"matched": true,
+"matched_address": "2030 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2040 24th ave nw  73069": {
+"lat": 35.242725,
+"lon": -97.481027,
+"matched": true,
+"matched_address": "2040 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2050 24th ave. nw 101 73069": {
+"lat": 35.242811,
+"lon": -97.480951,
+"matched": true,
+"matched_address": "2050 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2050 24th avenue nw 130 73069": {
+"lat": 35.242811,
+"lon": -97.480951,
+"matched": true,
+"matched_address": "2050 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2065 24th ave nw  73069": {
+"lat": 35.240747,
+"lon": -97.481905,
+"matched": true,
+"matched_address": "2065 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2070 nw 24th avenue  73069": {
+"lat": 35.242982,
+"lon": -97.480798,
+"matched": true,
+"matched_address": "2070 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"2073 24th ave nw  73069": {
+"lat": 35.241343,
+"lon": -97.481665,
+"matched": true,
+"matched_address": "2073 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2081 24th ave nw  73069": {
+"lat": 35.241912,
+"lon": -97.481336,
+"matched": true,
+"matched_address": "2081 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"209 e main st  73069": {
+"lat": 35.221642,
+"lon": -97.441738,
+"matched": true,
+"matched_address": "209 E MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"209 w main st  73069": {
+"lat": 35.220065,
+"lon": -97.445537,
+"matched": true,
+"matched_address": "209 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"210 interstate dr  73072": {
+"lat": 35.218838,
+"lon": -97.488885,
+"matched": true,
+"matched_address": "210, North Interstate Drive, Norman, Cleveland County, Oklahoma, 73072, United States",
+"nominatim_tried": true,
+"quality": "nominatim:house"
+},
+"210 n interstate drive  73072": {
+"lat": 35.219542,
+"lon": -97.487603,
+"matched": true,
+"matched_address": "210 N INTERSTATE DR, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"2100 36th ave nw  73072": {
+"lat": 35.243032,
+"lon": -97.494377,
+"matched": true,
+"matched_address": "2100 36TH AVE NW, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"2100 w lindsey st 104 73069": {
+"lat": 35.203847,
+"lon": -97.472319,
+"matched": true,
+"matched_address": "2100 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2100 w main  73071": {
+"lat": 35.218129,
+"lon": -97.471717,
+"matched": true,
+"matched_address": "La Baguette, 2100, West Main Street, Norman, Cleveland County, Oklahoma, 73069, United States",
+"nominatim_tried": true,
+"quality": "nominatim:bakery"
+},
+"2102 w lindsey st a 73069": {
+"lat": 35.203847,
+"lon": -97.472519,
+"matched": true,
+"matched_address": "2102 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"211 34th ave sw  73072": {
+"lat": 35.217095,
+"lon": -97.491143,
+"matched": true,
+"matched_address": "211 34TH AVE S W, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"211 e main st  73069": {
+"lat": 35.221652,
+"lon": -97.441713,
+"matched": true,
+"matched_address": "211 E MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"211 w main st  73069": {
+"lat": 35.220054,
+"lon": -97.445563,
+"matched": true,
+"matched_address": "211 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2110 w lindsey st  73069": {
+"lat": 35.203845,
+"lon": -97.473258,
+"matched": true,
+"matched_address": "2110 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2114 w lindsey st  73069": {
+"lat": 35.203845,
+"lon": -97.473621,
+"matched": true,
+"matched_address": "2114 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2118 w lindsey st  73069": {
+"lat": 35.203846,
+"lon": -97.473942,
+"matched": true,
+"matched_address": "2118 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2120 nw 24th ave  73069": {
+"lat": 35.244055,
+"lon": -97.479882,
+"matched": true,
+"matched_address": "2120 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"2125 w lindsey st  73069": {
+"lat": 35.204348,
+"lon": -97.473677,
+"matched": true,
+"matched_address": "Taco Bell, 2125, West Lindsey Street, Norman, Cleveland County, Oklahoma, 73069, United States",
+"nominatim_tried": true,
+"quality": "nominatim:fast_food"
+},
+"2125 whiteoak cir  73071": {
+"lat": 35.191406,
+"lon": -97.410154,
+"matched": true,
+"matched_address": "2125 WHITEOAK CIR, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"213 e main st  73069": {
+"lat": 35.221663,
+"lon": -97.441689,
+"matched": true,
+"matched_address": "213 E MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2132 w main st b 73069": {
+"lat": 35.218302,
+"lon": -97.472969,
+"matched": true,
+"matched_address": "2132 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"214 e main st  73069": {
+"lat": 35.221572,
+"lon": -97.441599,
+"matched": true,
+"matched_address": "214 E MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"215 34th ave sw  73072": {
+"lat": 35.217176,
+"lon": -97.491175,
+"matched": true,
+"matched_address": "215 34TH AVE S W, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"215 e main st  73069": {
+"lat": 35.221673,
+"lon": -97.441664,
+"matched": true,
+"matched_address": "215 E MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"215 w main st  73069": {
+"lat": 35.220032,
+"lon": -97.445615,
+"matched": true,
+"matched_address": "215 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"216 e main street  73069": {
+"lat": 35.221582,
+"lon": -97.441574,
+"matched": true,
+"matched_address": "216 E MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2160 24th ave nw 100 73069": {
+"lat": 35.245726,
+"lon": -97.479131,
+"matched": true,
+"matched_address": "2160 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2164 24th ave nw  73069": {
+"lat": 35.245905,
+"lon": -97.479101,
+"matched": true,
+"matched_address": "2164 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2166 24th ave nw  73069": {
+"lat": 35.245995,
+"lon": -97.479086,
+"matched": true,
+"matched_address": "2166 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"217 w boyd st  73069": {
+"lat": 35.211183,
+"lon": -97.442717,
+"matched": true,
+"matched_address": "217 W BOYD ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2180 24th ave nw  73069": {
+"lat": 35.246621,
+"lon": -97.47905,
+"matched": true,
+"matched_address": "2180 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"219 34th ave sw  73072": {
+"lat": 35.217235,
+"lon": -97.49121,
+"matched": true,
+"matched_address": "219 34TH AVE S W, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"219 e gray st  73069": {
+"lat": 35.222675,
+"lon": -97.442234,
+"matched": true,
+"matched_address": "219 E GRAY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2200 w main st  73069": {
+"lat": 35.218297,
+"lon": -97.474017,
+"matched": true,
+"matched_address": "2200 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2201 interstate dr  73069": {
+"lat": 35.24517,
+"lon": -97.484953,
+"matched": true,
+"matched_address": "2201 INTERSTATE DR E, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"2201 n interstate dr  73069": {
+"lat": 35.24517,
+"lon": -97.484953,
+"matched": true,
+"matched_address": "2201 INTERSTATE DR E, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"2201 trae young dr  73069": {
+"lat": 35.245247,
+"lon": -97.476352,
+"matched": true,
+"matched_address": "Young Family Athletic Center, 2201, Trae Young Drive, Norman, Cleveland County, Oklahoma, 73069, United States",
+"nominatim_tried": true,
+"quality": "nominatim:sports_centre"
+},
+"2202 tecumseh dr  73069": {
+"lat": 35.261911,
+"lon": -97.473489,
+"matched": true,
+"matched_address": "2202 W TECUMSEH RD, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"2203 w main st #8  73069": {
+"lat": 35.218574,
+"lon": -97.474134,
+"matched": true,
+"matched_address": "2203 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2203 w main st 8 73069": {
+"lat": 35.218574,
+"lon": -97.474134,
+"matched": true,
+"matched_address": "2203 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2205 w main st 1 73069": {
+"lat": 35.218574,
+"lon": -97.474364,
+"matched": true,
+"matched_address": "2205 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2218 w main st  73069": {
+"lat": 35.218296,
+"lon": -97.474133,
+"matched": true,
+"matched_address": "2218 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"222 s porter  73071": {
+"lat": 35.22148,
+"lon": -97.438449,
+"matched": true,
+"matched_address": "222 S PORTER AVE, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"2223 w main st  73069": {
+"lat": 35.218573,
+"lon": -97.47468,
+"matched": true,
+"matched_address": "2223 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2228 w main st  73072": {
+"lat": 35.218296,
+"lon": -97.474198,
+"matched": true,
+"matched_address": "2228 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"223 e gray st  73069": {
+"lat": 35.222696,
+"lon": -97.442184,
+"matched": true,
+"matched_address": "223 E GRAY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"223 w main st  73069": {
+"lat": 35.219989,
+"lon": -97.445718,
+"matched": true,
+"matched_address": "223 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2230 24th ave nw  73069": {
+"lat": 35.246115,
+"lon": -97.481349,
+"matched": true,
+"matched_address": "Triad Fitness, Supplements, and Nutrition, 2230, 24th Avenue Northwest, Norman, Cleveland County, Oklahoma, 73069, United States",
+"nominatim_tried": true,
+"quality": "nominatim:nutrition_supplements"
+},
+"227 e main st": {
+"lat": 35.221737,
+"lon": -97.441516,
+"matched": true,
+"matched_address": "227 E MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2271 tecumseh dr  73072": {
+"lat": 35.264473,
+"lon": -97.473998,
+"matched": true,
+"matched_address": "2271 TECUMSEH DR, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"2274 w main st  73069": {
+"lat": 35.218292,
+"lon": -97.474724,
+"matched": true,
+"matched_address": "2274 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"228 e main st  73069": {
+"lat": 35.221646,
+"lon": -97.441426,
+"matched": true,
+"matched_address": "228 E MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"229 e main st 110 73069": {
+"lat": 35.221747,
+"lon": -97.441491,
+"matched": true,
+"matched_address": "229 E MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"229 w main 101 73069": {
+"lat": 35.219956,
+"lon": -97.445795,
+"matched": true,
+"matched_address": "229 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"229 w main 203 73069": {
+"lat": 35.219956,
+"lon": -97.445795,
+"matched": true,
+"matched_address": "229 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"2290 w main st  73069": {
+"lat": 35.218289,
+"lon": -97.474963,
+"matched": true,
+"matched_address": "2290 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2300 alameda st  73071": {
+"lat": 35.218291,
+"lon": -97.40693,
+"matched": true,
+"matched_address": "2300 ALAMEDA ST, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"2300 conference dr  73069": {
+"lat": 35.242186,
+"lon": -97.477516,
+"matched": true,
+"matched_address": "2300 CONFERENCE DR, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2300 w lindsey  73069": {
+"lat": 35.203848,
+"lon": -97.475388,
+"matched": true,
+"matched_address": "2300 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"2305 w lindsey st  73069": {
+"lat": 35.203962,
+"lon": -97.475571,
+"matched": true,
+"matched_address": "2305 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2305 w lindsey st 103 73069": {
+"lat": 35.203962,
+"lon": -97.475571,
+"matched": true,
+"matched_address": "2305 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2319 e lindsey st  73071": {
+"lat": 35.203903,
+"lon": -97.407357,
+"matched": true,
+"matched_address": "2319 E LINDSEY ST, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"232 e main st a 73069": {
+"lat": 35.221667,
+"lon": -97.441377,
+"matched": true,
+"matched_address": "232 E MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2321 bretford way  73071": {
+"lat": 35.183906,
+"lon": -97.407881,
+"matched": true,
+"matched_address": "2321 BRETFORD WAY, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"2335 24th ave nw  73069": {
+"lat": 35.287254,
+"lon": -97.476489,
+"matched": true,
+"matched_address": "2335, 24th Avenue Northwest, Norman, Cleveland County, Oklahoma, 73069, United States",
+"nominatim_tried": true,
+"quality": "nominatim:house"
+},
+"2339 w main st  73069": {
+"lat": 35.218573,
+"lon": -97.474626,
+"matched": true,
+"matched_address": "2339 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"235 w hayes st  73069": {
+"lat": 35.232464,
+"lon": -97.448503,
+"matched": true,
+"matched_address": "235 W HAYES ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2400 conference dr  73069": {
+"lat": 35.242436,
+"lon": -97.478485,
+"matched": true,
+"matched_address": "2400 CONFERENCE DR, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2400 westport dr  73069": {
+"lat": 35.231546,
+"lon": -97.479387,
+"matched": true,
+"matched_address": "2400 WESTPORT DR, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2401 w main 110 73069": {
+"lat": 35.218568,
+"lon": -97.476718,
+"matched": true,
+"matched_address": "2401 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"2401 w main st  73069": {
+"lat": 35.218568,
+"lon": -97.476718,
+"matched": true,
+"matched_address": "2401 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2424 w main st  73069": {
+"lat": 35.21827,
+"lon": -97.477559,
+"matched": true,
+"matched_address": "2424 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2437 w main st  73069": {
+"lat": 35.218561,
+"lon": -97.478191,
+"matched": true,
+"matched_address": "2437 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2450 w robinson st 110 73069": {
+"lat": 35.232872,
+"lon": -97.480745,
+"matched": true,
+"matched_address": "2450, West Robinson Street, Norman, Cleveland County, Oklahoma, 73069, United States",
+"nominatim_tried": true,
+"quality": "nominatim:house"
+},
+"2490 w main st  73069": {
+"lat": 35.218278,
+"lon": -97.479317,
+"matched": true,
+"matched_address": "2490 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2500 conference center dr  73069": {
+"lat": 35.242739,
+"lon": -97.479433,
+"matched": true,
+"matched_address": "2500 CONFERENCE DR, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"2500 s jenkins ave  73019": {
+"lat": 35.212679,
+"lon": -97.441261,
+"matched": true,
+"matched_address": "South Jenkins Avenue, Norman, Cleveland County, Oklahoma, 73019, United States",
+"nominatim_tried": true,
+"quality": "nominatim:tertiary"
+},
+"2500 s jenkins-ou softball complex  73019": {
+"lat": null,
+"lon": null,
+"matched": false,
+"matched_address": "",
+"nominatim_tried": true,
+"quality": ""
+},
+"2501 conference center drive  73069": {
+"lat": 35.242296,
+"lon": -97.477477,
+"matched": true,
+"matched_address": "2501 CONFERENCE DR, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"2501 w hemphill dr  73069": {
+"lat": 35.222785,
+"lon": -97.482131,
+"matched": true,
+"matched_address": "2501 HEMPHILL DR, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"251 12th ave se  73071": {
+"lat": 35.21566,
+"lon": -97.423549,
+"matched": true,
+"matched_address": "251 12TH AVE SE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"2531 w main  73069": {
+"lat": 35.218549,
+"lon": -97.479968,
+"matched": true,
+"matched_address": "2531 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"2539 w main st  73069": {
+"lat": 35.218549,
+"lon": -97.480003,
+"matched": true,
+"matched_address": "2539 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2541 w main street  73069": {
+"lat": 35.218549,
+"lon": -97.480012,
+"matched": true,
+"matched_address": "2541 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2596 w techumseh 118 73071": {
+"lat": 35.261655,
+"lon": -97.403653,
+"matched": true,
+"matched_address": "2596 E TECUMSEH RD, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"2596 w tecumseh rd 118 73069": {
+"lat": 35.261913,
+"lon": -97.479937,
+"matched": true,
+"matched_address": "2596 W TECUMSEH RD, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2596 w tecumseh rd, 110 73069": {
+"lat": 35.261913,
+"lon": -97.479937,
+"matched": true,
+"matched_address": "2596 W TECUMSEH RD, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2596 w tecumseh road  73069": {
+"lat": 35.261913,
+"lon": -97.479937,
+"matched": true,
+"matched_address": "2596 W TECUMSEH RD, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2601 24th ave se  73071": {
+"lat": 35.183618,
+"lon": -97.405785,
+"matched": true,
+"matched_address": "2601 24TH AVE SE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"2601 banker ave  73072": {
+"lat": 35.175146,
+"lon": -97.498878,
+"matched": true,
+"matched_address": "2601 BANKERS AVE, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"2620 classen blvd 102 73071": {
+"lat": 35.192137,
+"lon": -97.423616,
+"matched": true,
+"matched_address": "2620 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"2620 classen blvd 112 73071": {
+"lat": 35.192137,
+"lon": -97.423616,
+"matched": true,
+"matched_address": "2620 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"2620 classen blvd, 100 73071": {
+"lat": 35.192137,
+"lon": -97.423616,
+"matched": true,
+"matched_address": "2620 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"2627 classen blvd  73071": {
+"lat": 35.19112,
+"lon": -97.422832,
+"matched": true,
+"matched_address": "2627 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"2627 classen blvd 104 73071": {
+"lat": 35.19112,
+"lon": -97.422832,
+"matched": true,
+"matched_address": "2627 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"2627 classen blvd 108 73071": {
+"lat": 35.19112,
+"lon": -97.422832,
+"matched": true,
+"matched_address": "2627 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"2732 lerkim ln  73069": {
+"lat": 35.251099,
+"lon": -97.455443,
+"matched": true,
+"matched_address": "2732 LERKIM LN, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"2737 clifton ter  73071": {
+"lat": null,
+"lon": null,
+"matched": false,
+"matched_address": "",
+"nominatim_tried": true,
+"quality": ""
+},
+"2801 36th ave nw 100 73072": {
+"lat": 35.245941,
+"lon": -97.494265,
+"matched": true,
+"matched_address": "36th Avenue Northwest, Norman, Cleveland County, Oklahoma, 73072, United States",
+"nominatim_tried": true,
+"quality": "nominatim:secondary"
+},
+"2801 36th avenue nw 100 73072": {
+"lat": 35.245941,
+"lon": -97.494265,
+"matched": true,
+"matched_address": "36th Avenue Northwest, Norman, Cleveland County, Oklahoma, 73072, United States",
+"nominatim_tried": true,
+"quality": "nominatim:secondary"
+},
+"2801 e state highway 9  73071": {
+"lat": 35.189722,
+"lon": -97.396381,
+"matched": true,
+"matched_address": "2801 STATE HWY 9, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"2801 e state highway9  73071": {
+"lat": 35.189722,
+"lon": -97.396381,
+"matched": true,
+"matched_address": "2801 STATE HWY 9, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"2803 24th ave nw  73069": {
+"lat": 35.25348,
+"lon": -97.481713,
+"matched": true,
+"matched_address": "2803 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"283 34th ave sw  73072": {
+"lat": 35.217976,
+"lon": -97.491552,
+"matched": true,
+"matched_address": "283 34TH AVE S W, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"2840 classen blvd  73071": {
+"lat": 35.188495,
+"lon": -97.421424,
+"matched": true,
+"matched_address": "2840 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"2850 chautauqua dr  73072": {
+"lat": 35.18863,
+"lon": -97.450271,
+"matched": true,
+"matched_address": "2850 CHAUTAUQUA AVE, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"2900 jenkins ave  73019": {
+"lat": 35.187162,
+"lon": -97.441521,
+"matched": true,
+"matched_address": "2900 JENKINS AVE, NORMAN, OK, 73019",
+"quality": "Exact"
+},
+"2900 s jenkins  73019": {
+"lat": 35.187162,
+"lon": -97.441521,
+"matched": true,
+"matched_address": "2900 JENKINS AVE, NORMAN, OK, 73019",
+"quality": "Non_Exact"
+},
+"2900 s jenkins ave  73019": {
+"lat": 35.187162,
+"lon": -97.441521,
+"matched": true,
+"matched_address": "2900 JENKINS AVE, NORMAN, OK, 73019",
+"quality": "Non_Exact"
+},
+"2900 s jenkins ave  73072": {
+"lat": 35.187162,
+"lon": -97.441521,
+"matched": true,
+"matched_address": "2900 JENKINS AVE, NORMAN, OK, 73019",
+"quality": "Non_Exact"
+},
+"2920 classen blvd  73071": {
+"lat": 35.184653,
+"lon": -97.418955,
+"matched": true,
+"matched_address": "2920 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"300 3rd st room 150  73019": {
+"lat": 35.200847,
+"lon": -97.44426,
+"matched": true,
+"matched_address": "300 3RD ST, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"300 ed noble parkway  73072": {
+"lat": 35.216327,
+"lon": -97.486764,
+"matched": true,
+"matched_address": "300 ED NOBLE PKWY, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"300 w imhoff rd  73019": {
+"lat": 35.189702,
+"lon": -97.441515,
+"matched": true,
+"matched_address": "300 IMHOFF RD, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"300 w imhoff rd  73072": {
+"lat": 35.189702,
+"lon": -97.441515,
+"matched": true,
+"matched_address": "300 IMHOFF RD, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"300 w timberdell rd  73019": {
+"lat": 35.196626,
+"lon": -97.444296,
+"matched": true,
+"matched_address": "300 W TIMBERDELL RD, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"301 e main st  73069": {
+"lat": 35.22217,
+"lon": -97.440505,
+"matched": true,
+"matched_address": "301 E MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"301 e robinson st  73069": {
+"lat": 35.232912,
+"lon": -97.442664,
+"matched": true,
+"matched_address": "301 E ROBINSON ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"301 norman center ct  73072": {
+"lat": 35.216368,
+"lon": -97.489262,
+"matched": true,
+"matched_address": "301 NORMAN CENTER CT, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"301 w boyd  73069": {
+"lat": 35.211187,
+"lon": -97.443762,
+"matched": true,
+"matched_address": "301 W BOYD ST, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"3010 classen blvd  73071": {
+"lat": 35.183057,
+"lon": -97.417952,
+"matched": true,
+"matched_address": "3010 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"302 n interstate dr  73072": {
+"lat": 35.220493,
+"lon": -97.486455,
+"matched": true,
+"matched_address": "302 N INTERSTATE DR, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3020 s classen blvd  73071": {
+"lat": 35.182261,
+"lon": -97.41746,
+"matched": true,
+"matched_address": "3020 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"3025 william pereira  73072": {
+"lat": 35.214152,
+"lon": -97.485855,
+"matched": true,
+"matched_address": "3025 WILLIAM PEREIRA, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3040 classen blvd  73071": {
+"lat": 35.181837,
+"lon": -97.417193,
+"matched": true,
+"matched_address": "3040 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"305 e main st  73069": {
+"lat": 35.222193,
+"lon": -97.440453,
+"matched": true,
+"matched_address": "305 E MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"3054 classen blvd  73071": {
+"lat": 35.181696,
+"lon": -97.417101,
+"matched": true,
+"matched_address": "3054 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"3056 s classen blvd a 73071": {
+"lat": 35.181676,
+"lon": -97.417087,
+"matched": true,
+"matched_address": "3056 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"307 e main st  73069": {
+"lat": 35.222204,
+"lon": -97.440427,
+"matched": true,
+"matched_address": "307 E MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"309 s flood  73069": {
+"lat": 35.215282,
+"lon": -97.452945,
+"matched": true,
+"matched_address": "309 S FLOOD AVE, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"309 s peters ave  73069": {
+"lat": 35.219567,
+"lon": -97.44055,
+"matched": true,
+"matched_address": "309 S PETERS AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"309 white st  73069": {
+"lat": 35.21305,
+"lon": -97.444091,
+"matched": true,
+"matched_address": "309 WHITE ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"3100 medical park pl  73072": {
+"lat": 35.257708,
+"lon": -97.487864,
+"matched": true,
+"matched_address": "Medical Park Place, Norman, Cleveland County, Oklahoma, 73072, United States",
+"nominatim_tried": true,
+"quality": "nominatim:unclassified"
+},
+"311 12th ave se  73071": {
+"lat": 35.214768,
+"lon": -97.423552,
+"matched": true,
+"matched_address": "311 12TH AVE SE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"311 e main st  73069": {
+"lat": 35.222226,
+"lon": -97.440375,
+"matched": true,
+"matched_address": "311 E MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"311 w boyd st  73069": {
+"lat": 35.211186,
+"lon": -97.444132,
+"matched": true,
+"matched_address": "311 W BOYD ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"315 e gray  73069": {
+"lat": 35.223225,
+"lon": -97.440924,
+"matched": true,
+"matched_address": "315 E GRAY ST, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"315 opportunity dr  73071": {
+"lat": null,
+"lon": null,
+"matched": false,
+"matched_address": "",
+"nominatim_tried": true,
+"quality": ""
+},
+"315 white st  73069": {
+"lat": 35.213056,
+"lon": -97.444336,
+"matched": true,
+"matched_address": "315 WHITE ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"317 e main st  73069": {
+"lat": 35.22226,
+"lon": -97.440297,
+"matched": true,
+"matched_address": "317 E MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"3170 classen blvd  73071": {
+"lat": 35.180273,
+"lon": -97.416164,
+"matched": true,
+"matched_address": "3170 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"318 e hayes st  73069": {
+"lat": 35.232321,
+"lon": -97.442382,
+"matched": true,
+"matched_address": "318 E HAYES ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"320 12th ave ne  73071": {
+"lat": 35.223925,
+"lon": -97.423633,
+"matched": true,
+"matched_address": "320 12TH AVE NE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"320 12th ave se 102 73071": {
+"lat": 35.215103,
+"lon": -97.423691,
+"matched": true,
+"matched_address": "320 12TH AVE SE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"320 12th ave se 106 73071": {
+"lat": 35.215103,
+"lon": -97.423691,
+"matched": true,
+"matched_address": "320 12TH AVE SE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"320 12th ave se 110 73071": {
+"lat": 35.215103,
+"lon": -97.423691,
+"matched": true,
+"matched_address": "320 12TH AVE SE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"320 n porter ave  73069": {
+"lat": 35.22475,
+"lon": -97.440537,
+"matched": true,
+"matched_address": "320 N PORTER AVE, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"3200 s berry rd  73072": {
+"lat": 35.183304,
+"lon": -97.46297,
+"matched": true,
+"matched_address": "The Trails, 3200, South Berry Road, Norman, Cleveland County, Oklahoma, 73072, United States",
+"nominatim_tried": true,
+"quality": "nominatim:golf_course"
+},
+"3200 w robinson st  73072": {
+"lat": 35.23282,
+"lon": -97.489479,
+"matched": true,
+"matched_address": "3200 W ROBINSON ST, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3201 market pl  73072": {
+"lat": 35.293723,
+"lon": -97.488991,
+"matched": true,
+"matched_address": "3201 MARKET PL, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3201 w robinson st  73072": {
+"lat": 35.233045,
+"lon": -97.48948,
+"matched": true,
+"matched_address": "3201 W ROBINSON ST, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3203 w robinson st 100 73072": {
+"lat": 35.233045,
+"lon": -97.4895,
+"matched": true,
+"matched_address": "3203 W ROBINSON ST, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3203 w robinson st 200 73072": {
+"lat": 35.233045,
+"lon": -97.4895,
+"matched": true,
+"matched_address": "3203 W ROBINSON ST, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3205-a w robinson  73072": {
+"lat": 35.233044,
+"lon": -97.489521,
+"matched": true,
+"matched_address": "3205 W ROBINSON ST, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"321 e main st  73069": {
+"lat": 35.222282,
+"lon": -97.440245,
+"matched": true,
+"matched_address": "321 E MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"322 w tonhawa st  73069": {
+"lat": 35.221162,
+"lon": -97.448186,
+"matched": true,
+"matched_address": "322 W TONHAWA ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"323 w boyd st  73069": {
+"lat": 35.211185,
+"lon": -97.444576,
+"matched": true,
+"matched_address": "323 W BOYD ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"323 white st  73069": {
+"lat": 35.213064,
+"lon": -97.444725,
+"matched": true,
+"matched_address": "323 WHITE ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"3247 w main st  73072": {
+"lat": 35.218521,
+"lon": -97.490679,
+"matched": true,
+"matched_address": "3247 W MAIN ST, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3250 w robinson st  73072": {
+"lat": 35.232816,
+"lon": -97.490253,
+"matched": true,
+"matched_address": "3250 W ROBINSON ST, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3251 classen blvd  73071": {
+"lat": 35.181088,
+"lon": -97.41632,
+"matched": true,
+"matched_address": "3251 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"326 e main st  73069": {
+"lat": 35.222214,
+"lon": -97.440102,
+"matched": true,
+"matched_address": "326 E MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"3281 classen blvd  73071": {
+"lat": 35.180463,
+"lon": -97.415937,
+"matched": true,
+"matched_address": "3281 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"3281 s classen blvd  73071": {
+"lat": 35.180463,
+"lon": -97.415937,
+"matched": true,
+"matched_address": "3281 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"3281 us 77  73071": {
+"lat": 35.181795,
+"lon": -97.416213,
+"matched": true,
+"matched_address": "Panda Express, 3281, South Classen Boulevard, Norman, Cleveland County, Oklahoma, 73071, United States",
+"nominatim_tried": true,
+"quality": "nominatim:fast_food"
+},
+"329 s peters ave  73069": {
+"lat": 35.219397,
+"lon": -97.440443,
+"matched": true,
+"matched_address": "329 S PETERS AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"330 ed noble parkway  73072": {
+"lat": 35.216068,
+"lon": -97.486488,
+"matched": true,
+"matched_address": "330 ED NOBLE PKWY, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3300 healthplex pkwy  73072": {
+"lat": 35.258788,
+"lon": -97.489491,
+"matched": true,
+"matched_address": "Normal Regional Hospital, 3300, Healthplex Pkwy, Norman, Cleveland County, Oklahoma, 73072, United States",
+"nominatim_tried": true,
+"quality": "nominatim:hospital"
+},
+"3300 marshall ave  73072": {
+"lat": 35.180034,
+"lon": -97.428927,
+"matched": true,
+"matched_address": "3300 MARSHALL AVE, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3300 w main st  73072": {
+"lat": 35.218264,
+"lon": -97.490189,
+"matched": true,
+"matched_address": "3300 W MAIN ST, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3301 w main st  73072": {
+"lat": 35.218523,
+"lon": -97.490861,
+"matched": true,
+"matched_address": "3301 W MAIN ST, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3301 w main st 2096": {
+"lat": 35.218523,
+"lon": -97.490861,
+"matched": true,
+"matched_address": "3301 W MAIN ST, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3301 w main st spc 5552  73072": {
+"lat": 35.218523,
+"lon": -97.490861,
+"matched": true,
+"matched_address": "3301 W MAIN ST, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"331 e robinson  73069": {
+"lat": 35.23291,
+"lon": -97.442198,
+"matched": true,
+"matched_address": "331 E ROBINSON ST, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"331 white st  73069": {
+"lat": 35.213063,
+"lon": -97.444816,
+"matched": true,
+"matched_address": "331 WHITE ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"332 cate center dr  73019": {
+"lat": 35.203682,
+"lon": -97.444605,
+"matched": true,
+"matched_address": "332 CATE CENTER DR, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"3321 w tecumesh rd, #121 73072": {
+"lat": 35.261984,
+"lon": -97.490279,
+"matched": true,
+"matched_address": "3321 W TECUMSEH RD, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"3321 w tecumseh rd  73072": {
+"lat": 35.261984,
+"lon": -97.490279,
+"matched": true,
+"matched_address": "3321 W TECUMSEH RD, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3321 w tecumseh rd 121 73072": {
+"lat": 35.261984,
+"lon": -97.490279,
+"matched": true,
+"matched_address": "3321 W TECUMSEH RD, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3325 w main st  73072": {
+"lat": 35.218523,
+"lon": -97.490942,
+"matched": true,
+"matched_address": "3325 W MAIN ST, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"333 4th st  73019": {
+"lat": 35.199819,
+"lon": -97.445161,
+"matched": true,
+"matched_address": "333 4TH ST, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"333 cate center dr  73019": {
+"lat": 35.203449,
+"lon": -97.446732,
+"matched": true,
+"matched_address": "333 CATE CENTER DR, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"333 n interstate dr  73069": {
+"lat": 35.221504,
+"lon": -97.481146,
+"matched": true,
+"matched_address": "Walmart Supercenter, 333, North Interstate Drive, Norman, Cleveland County, Oklahoma, 73069, United States",
+"nominatim_tried": true,
+"quality": "nominatim:supermarket"
+},
+"333 s porter ave  73071": {
+"lat": 35.22052,
+"lon": -97.437663,
+"matched": true,
+"matched_address": "333 S PORTER AVE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"333 w boyd st 110 73069": {
+"lat": 35.211183,
+"lon": -97.44494,
+"matched": true,
+"matched_address": "333 W BOYD ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"3339 w main #335  73072": {
+"lat": 35.218524,
+"lon": -97.490989,
+"matched": true,
+"matched_address": "3339 W MAIN ST, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"3351 w main st  73072": {
+"lat": 35.218524,
+"lon": -97.491029,
+"matched": true,
+"matched_address": "3351 W MAIN ST, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3351 w tecumseh rd  73069": {
+"lat": 35.261985,
+"lon": -97.490676,
+"matched": true,
+"matched_address": "3351 W TECUMSEH RD, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"3367 w main st 1 73072": {
+"lat": 35.218524,
+"lon": -97.491083,
+"matched": true,
+"matched_address": "3367 W MAIN ST, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3400 w main st  73072": {
+"lat": 35.218263,
+"lon": -97.491703,
+"matched": true,
+"matched_address": "3400 W MAIN ST, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3408 36th ave nw 124 73072": {
+"lat": 35.258783,
+"lon": -97.494382,
+"matched": true,
+"matched_address": "3408 36TH AVE NW, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3408 36th ave nw, 124 73072": {
+"lat": 35.258783,
+"lon": -97.494382,
+"matched": true,
+"matched_address": "3408 36TH AVE NW, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3408 nw 36th ave 118 73072": {
+"lat": 35.258783,
+"lon": -97.494382,
+"matched": true,
+"matched_address": "3408 36TH AVE NW, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"3420 n porter ave  73071": {
+"lat": 35.259387,
+"lon": -97.441297,
+"matched": true,
+"matched_address": "3420 N PORTER AVE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"3430 n porter ave  73069": {
+"lat": 35.259468,
+"lon": -97.441298,
+"matched": true,
+"matched_address": "3430 N PORTER AVE, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"3430 n porter ave  73071": {
+"lat": 35.259468,
+"lon": -97.441298,
+"matched": true,
+"matched_address": "3430 N PORTER AVE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"3439 w main st  73072": {
+"lat": 35.218526,
+"lon": -97.491325,
+"matched": true,
+"matched_address": "3439 W MAIN ST, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3450 chautauqua ave  73072": {
+"lat": 35.18113,
+"lon": -97.45024,
+"matched": true,
+"matched_address": "3450 CHAUTAUQUA AVE, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3450 w tecumseh rd  73072": {
+"lat": 35.261872,
+"lon": -97.491352,
+"matched": true,
+"matched_address": "3450 W TECUMSEH RD, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3451 36th ave 150 73072": {
+"lat": 35.259939,
+"lon": -97.494232,
+"matched": true,
+"matched_address": "3451 36TH AVE NW, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"3451 36th ave nw 100 73072": {
+"lat": 35.259939,
+"lon": -97.494232,
+"matched": true,
+"matched_address": "3451 36TH AVE NW, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3451 36th ave nw 120 73072": {
+"lat": 35.259939,
+"lon": -97.494232,
+"matched": true,
+"matched_address": "3451 36TH AVE NW, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3451 36th ave nw, 170 73072": {
+"lat": 35.259939,
+"lon": -97.494232,
+"matched": true,
+"matched_address": "3451 36TH AVE NW, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"351 e robinson st  73069": {
+"lat": 35.232909,
+"lon": -97.441888,
+"matched": true,
+"matched_address": "351 E ROBINSON ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"3515 w main st spc 3351a  73072": {
+"lat": 35.218539,
+"lon": -97.493222,
+"matched": true,
+"matched_address": "3515 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"3520 w tecumseh rd  73072": {
+"lat": 35.261847,
+"lon": -97.493073,
+"matched": true,
+"matched_address": "3520 W TECUMSEH RD, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3522 24th ave nw 124 73069": {
+"lat": 35.248177,
+"lon": -97.479342,
+"matched": true,
+"matched_address": "3522 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"3522 nw 24th ave 100 73069": {
+"lat": 35.248177,
+"lon": -97.479342,
+"matched": true,
+"matched_address": "3522 24TH AVE NW, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"3571 w rock creek rd  73072": {
+"lat": 35.247534,
+"lon": -97.492017,
+"matched": true,
+"matched_address": "3571 W ROCK CREEK RD, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3600 w main st, 500 73072": {
+"lat": 35.217516,
+"lon": -97.494757,
+"matched": true,
+"matched_address": "FedEx Office, 3600, West Main Street, Norman, Cleveland County, Oklahoma, 73072, United States",
+"nominatim_tried": true,
+"quality": "nominatim:copyshop"
+},
+"3617 w main st  73072": {
+"lat": 35.218445,
+"lon": -97.494689,
+"matched": true,
+"matched_address": "3617 W MAIN ST, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3623 w main st  73072": {
+"lat": 35.218444,
+"lon": -97.49481,
+"matched": true,
+"matched_address": "3623 W MAIN ST, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"363 n interstate dr  73069": {
+"lat": 35.221928,
+"lon": -97.484891,
+"matched": true,
+"matched_address": "363 N INTERSTATE DR, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"3640 w tecumseh rd  73072": {
+"lat": 35.261834,
+"lon": -97.49487,
+"matched": true,
+"matched_address": "3640 W TECUMSEH RD, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3651 classen blvd  73071": {
+"lat": 35.173325,
+"lon": -97.411564,
+"matched": true,
+"matched_address": "3651 CLASSEN BLVD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"370 3rd st  73019": {
+"lat": 35.200844,
+"lon": -97.446245,
+"matched": true,
+"matched_address": "370 3RD ST, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"3700 w robinson st 164 73072": {
+"lat": 35.232783,
+"lon": -97.49561,
+"matched": true,
+"matched_address": "3700 W ROBINSON ST, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3720 w robinson 104 73072": {
+"lat": 35.232785,
+"lon": -97.495825,
+"matched": true,
+"matched_address": "3720 W ROBINSON ST, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"3737 w main st  73072": {
+"lat": 35.218428,
+"lon": -97.497239,
+"matched": true,
+"matched_address": "3737 W MAIN ST, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"3750 w main st  73072": {
+"lat": 35.218454,
+"lon": -97.497377,
+"matched": true,
+"matched_address": "3750, West Main Street, Norman, Cleveland County, Oklahoma, 73072, United States",
+"nominatim_tried": true,
+"quality": "nominatim:house"
+},
+"3750 w main st 6a 73072": {
+"lat": 35.218454,
+"lon": -97.497377,
+"matched": true,
+"matched_address": "3750, West Main Street, Norman, Cleveland County, Oklahoma, 73072, United States",
+"nominatim_tried": true,
+"quality": "nominatim:house"
+},
+"3750 w robinson  73072": {
+"lat": 35.23279,
+"lon": -97.496268,
+"matched": true,
+"matched_address": "3750 W ROBINSON ST, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"3750 w robinson 106 73072": {
+"lat": 35.23279,
+"lon": -97.496268,
+"matched": true,
+"matched_address": "3750 W ROBINSON ST, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"3770 w robinson st, 100 73072": {
+"lat": 35.232793,
+"lon": -97.496588,
+"matched": true,
+"matched_address": "3770 W ROBINSON ST, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"4 ransom dr  73019": {
+"lat": 35.193251,
+"lon": -97.431533,
+"matched": true,
+"matched_address": "Ransom Drive, Norman, Cleveland County, Oklahoma, 73019, United States",
+"nominatim_tried": true,
+"quality": "nominatim:unclassified"
+},
+"400 e robinson  73071": {
+"lat": 35.232792,
+"lon": -97.441004,
+"matched": true,
+"matched_address": "400 E ROBINSON ST, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"400 ed noble parkway  73072": {
+"lat": 35.215372,
+"lon": -97.486101,
+"matched": true,
+"matched_address": "400 ED NOBLE PKWY, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"401 imhoff rd  73019": {
+"lat": 35.189417,
+"lon": -97.442956,
+"matched": true,
+"matched_address": "401 IMHOFF RD, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"401 s porter  73069": {
+"lat": 35.219868,
+"lon": -97.437256,
+"matched": true,
+"matched_address": "401 S PORTER AVE, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"401 w brooks st  73019": {
+"lat": 35.208064,
+"lon": -97.445708,
+"matched": true,
+"matched_address": "Library Makerspace, 401, West Brooks Street, Norman, Cleveland County, Oklahoma, 73019, United States",
+"nominatim_tried": true,
+"quality": "nominatim:hackerspace"
+},
+"401 w imhoff rd  73019": {
+"lat": 35.189417,
+"lon": -97.442956,
+"matched": true,
+"matched_address": "401 IMHOFF RD, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"4050 n interstate dr  73072": {
+"lat": 35.27015,
+"lon": -97.485998,
+"matched": true,
+"matched_address": "4050 N INTERSTATE DR, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"408 e main st  73071": {
+"lat": 35.222676,
+"lon": -97.438922,
+"matched": true,
+"matched_address": "408 E MAIN ST, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"408 w main st  73069": {
+"lat": 35.218808,
+"lon": -97.448217,
+"matched": true,
+"matched_address": "408 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"4141 e tecumseh rd  73026": {
+"lat": 35.261764,
+"lon": -97.377571,
+"matched": true,
+"matched_address": "4141 E TECUMSEH RD, NORMAN, OK, 73026",
+"quality": "Exact"
+},
+"421 w gray  73069": {
+"lat": 35.21954,
+"lon": -97.449539,
+"matched": true,
+"matched_address": "421 W GRAY ST, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"422 e main st  73071": {
+"lat": 35.222747,
+"lon": -97.438738,
+"matched": true,
+"matched_address": "422 E MAIN ST, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"423 s webster ave  73069": {
+"lat": 35.216473,
+"lon": -97.444733,
+"matched": true,
+"matched_address": "423 S WEBSTER AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"424 e main st  73071": {
+"lat": 35.222757,
+"lon": -97.438711,
+"matched": true,
+"matched_address": "424 E MAIN ST, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"4303 alameda st  73026": {
+"lat": 35.218299,
+"lon": -97.377998,
+"matched": true,
+"matched_address": "4303 ALAMEDA ST, NORMAN, OK, 73026",
+"quality": "Exact"
+},
+"432 e symmes st  73071": {
+"lat": 35.220036,
+"lon": -97.436859,
+"matched": true,
+"matched_address": "432 E SYMMES ST, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"434 buchanan ave  73069": {
+"lat": 35.214264,
+"lon": -97.444745,
+"matched": true,
+"matched_address": "434 BUCHANAN AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"4531 alameda st  73026": {
+"lat": 35.218285,
+"lon": -97.382578,
+"matched": true,
+"matched_address": "4531 ALAMEDA ST, NORMAN, OK, 73026",
+"quality": "Exact"
+},
+"4701 12th ave nw  73069": {
+"lat": 35.27406,
+"lon": -97.459,
+"matched": true,
+"matched_address": "4701 12TH AVE NW, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"4712 n porter ave  73071": {
+"lat": 35.269361,
+"lon": -97.441398,
+"matched": true,
+"matched_address": "4712 N PORTER AVE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"500 ed noble way  73072": {
+"lat": null,
+"lon": null,
+"matched": false,
+"matched_address": "",
+"nominatim_tried": true,
+"quality": ""
+},
+"500 elmwood dr  73072": {
+"lat": 35.20076,
+"lon": -97.448457,
+"matched": true,
+"matched_address": "500 ELMWOOD DR, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"500 w imhoff rd  73019": {
+"lat": 35.189677,
+"lon": -97.444707,
+"matched": true,
+"matched_address": "500 IMHOFF RD, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"5005 york dr  73069": {
+"lat": 35.278461,
+"lon": -97.482343,
+"matched": true,
+"matched_address": "5005 YORK DR, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"505 emerald way  73072": {
+"lat": 35.199644,
+"lon": -97.448891,
+"matched": true,
+"matched_address": "505 EMERALD WAY, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"506 n porter ave  73071": {
+"lat": 35.225922,
+"lon": -97.441143,
+"matched": true,
+"matched_address": "506 N PORTER AVE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"516 n porter ave  73071": {
+"lat": 35.218783,
+"lon": -97.436771,
+"matched": true,
+"matched_address": "516 S PORTER AVE, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"517 n porter ave  73071": {
+"lat": 35.226222,
+"lon": -97.441015,
+"matched": true,
+"matched_address": "517 N PORTER AVE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"518 n porter  73069": {
+"lat": 35.22583,
+"lon": -97.441173,
+"matched": true,
+"matched_address": "518, North Porter Avenue, Norman, Cleveland County, Oklahoma, 73071, United States",
+"nominatim_tried": true,
+"quality": "nominatim:house"
+},
+"529 buchanan ave  73069": {
+"lat": 35.212445,
+"lon": -97.444581,
+"matched": true,
+"matched_address": "529 BUCHANAN AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"540 ed noble pkwy  73072": {
+"lat": 35.213242,
+"lon": -97.485519,
+"matched": true,
+"matched_address": "540 ED NOBLE PKWY, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"540 w main st  73069": {
+"lat": 35.21831,
+"lon": -97.450525,
+"matched": true,
+"matched_address": "540 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"541 s university blvd  73069": {
+"lat": 35.21347,
+"lon": -97.445597,
+"matched": true,
+"matched_address": "541 S UNIVERSITY BLVD, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"542 s university blvd  73069": {
+"lat": 35.214285,
+"lon": -97.445743,
+"matched": true,
+"matched_address": "542 S UNIVERSITY BLVD, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"550 24th avenue nw  73069": {
+"lat": 35.225349,
+"lon": -97.476709,
+"matched": true,
+"matched_address": "550 NW 24TH AVE, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"562 ed noble pkwy  73072": {
+"lat": 35.212887,
+"lon": -97.485329,
+"matched": true,
+"matched_address": "562 ED NOBLE PKWY, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"563 buchanan ave  73069": {
+"lat": 35.211833,
+"lon": -97.444579,
+"matched": true,
+"matched_address": "563 BUCHANAN AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"575 s university  73069": {
+"lat": 35.21214,
+"lon": -97.445588,
+"matched": true,
+"matched_address": "575 S UNIVERSITY BLVD, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"575/577 buchanan  73069": {
+"lat": 35.211581,
+"lon": -97.444578,
+"matched": true,
+"matched_address": "577 BUCHANAN AVE, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"577 buchanan ave  73069": {
+"lat": 35.211581,
+"lon": -97.444578,
+"matched": true,
+"matched_address": "577 BUCHANAN AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"580 ed noble parkway  73072": {
+"lat": 35.21232,
+"lon": -97.484971,
+"matched": true,
+"matched_address": "580 ED NOBLE PKWY, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"580 ed noble pkwy  73072": {
+"lat": 35.21232,
+"lon": -97.484971,
+"matched": true,
+"matched_address": "580 ED NOBLE PKWY, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"582 buchanan ave  73069": {
+"lat": 35.211472,
+"lon": -97.444718,
+"matched": true,
+"matched_address": "582 BUCHANAN AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"584 buchanan ave  73069": {
+"lat": 35.211436,
+"lon": -97.444717,
+"matched": true,
+"matched_address": "584 BUCHANAN AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"588 buchanan ave  73069": {
+"lat": 35.211364,
+"lon": -97.444717,
+"matched": true,
+"matched_address": "588 BUCHANAN AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"600 n interstate dr  73072": {
+"lat": 35.225672,
+"lon": -97.485947,
+"matched": true,
+"matched_address": "600 N INTERSTATE DR, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"601 meadow ridge rd  73072": {
+"lat": 35.226887,
+"lon": -97.505858,
+"matched": true,
+"matched_address": "Truman Primary School, 601, Meadow Ridge Road, Brookhaven, Norman, Cleveland County, Oklahoma, 73072, United States",
+"nominatim_tried": true,
+"quality": "nominatim:school"
+},
+"601 w eufaula street  73069": {
+"lat": 35.215923,
+"lon": -97.449707,
+"matched": true,
+"matched_address": "601 W EUFAULA ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"602 n findlay  73069": {
+"lat": 35.228765,
+"lon": -97.437582,
+"matched": true,
+"matched_address": "602 N FINDLAY AVE, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"604 n porter ave  73071": {
+"lat": 35.226867,
+"lon": -97.441149,
+"matched": true,
+"matched_address": "604 N PORTER AVE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"607 w boyd st  73069": {
+"lat": 35.211166,
+"lon": -97.449075,
+"matched": true,
+"matched_address": "607 W BOYD ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"609 12th ave ne  73071": {
+"lat": 35.226013,
+"lon": -97.423487,
+"matched": true,
+"matched_address": "609 12TH AVE NE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"615 12th ave ne  73071": {
+"lat": 35.226322,
+"lon": -97.423486,
+"matched": true,
+"matched_address": "615 12TH AVE NE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"615 e robinson st  73071": {
+"lat": 35.232914,
+"lon": -97.437249,
+"matched": true,
+"matched_address": "615 E ROBINSON ST, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"621 12th ave ne 140 73071": {
+"lat": 35.226642,
+"lon": -97.423485,
+"matched": true,
+"matched_address": "621 12TH AVE NE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"622 n porter ave  73071": {
+"lat": 35.227257,
+"lon": -97.441166,
+"matched": true,
+"matched_address": "622 N PORTER AVE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"631 elm ave  73019": {
+"lat": 35.208743,
+"lon": -97.447798,
+"matched": true,
+"matched_address": "631 ELM AVE, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"640 ed noble pkwy  73072": {
+"lat": 35.210533,
+"lon": -97.4837,
+"matched": true,
+"matched_address": "640 ED NOBLE PKWY, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"650 n interstate  73072": {
+"lat": 35.225861,
+"lon": -97.485947,
+"matched": true,
+"matched_address": "650 N INTERSTATE DR, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"6825 desiree dr  73071": {
+"lat": 35.300536,
+"lon": -97.40828,
+"matched": true,
+"matched_address": "6825 DESIREE DR, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"6851 day dr  73026": {
+"lat": 35.243684,
+"lon": -97.340485,
+"matched": true,
+"matched_address": "6851 DAY DR, NORMAN, OK, 73026",
+"quality": "Exact"
+},
+"700 college ave  73069": {
+"lat": 35.207433,
+"lon": -97.449074,
+"matched": true,
+"matched_address": "700 COLLEGE AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"700 copperfield dr  73072": {
+"lat": 35.226589,
+"lon": -97.486825,
+"matched": true,
+"matched_address": "700 COPPERFIELD DR, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"700 n berry rd  73069": {
+"lat": 35.226455,
+"lon": -97.459081,
+"matched": true,
+"matched_address": "700 N BERRY RD, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"700 n interstate dr  73072": {
+"lat": 35.226685,
+"lon": -97.485946,
+"matched": true,
+"matched_address": "700 N INTERSTATE DR, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"701 college ave  73072": {
+"lat": 35.207433,
+"lon": -97.448934,
+"matched": true,
+"matched_address": "701 COLLEGE AVE, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"702 n porter ave  73071": {
+"lat": 35.227824,
+"lon": -97.441154,
+"matched": true,
+"matched_address": "702 N PORTER AVE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"705 n porter ave  73071": {
+"lat": 35.227796,
+"lon": -97.441013,
+"matched": true,
+"matched_address": "705 N PORTER AVE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"709 shadowlake rd  73071": {
+"lat": 35.255103,
+"lon": -97.430607,
+"matched": true,
+"matched_address": "709 SHADOWLAKE RD, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"710 w main st 120 73069": {
+"lat": 35.218332,
+"lon": -97.453309,
+"matched": true,
+"matched_address": "710 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"723 asp ave  73069": {
+"lat": 35.213594,
+"lon": -97.443627,
+"matched": true,
+"matched_address": "723 ASP AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"725 jenkins ave  73069": {
+"lat": 35.213442,
+"lon": -97.441179,
+"matched": true,
+"matched_address": "725 JENKINS AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"728 smalley dr  73071": {
+"lat": 35.208739,
+"lon": -97.402644,
+"matched": true,
+"matched_address": "728 SMALLEY DR, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"731 asp ave b 73069": {
+"lat": 35.213372,
+"lon": -97.443627,
+"matched": true,
+"matched_address": "731 ASP AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"731 w main st  73069": {
+"lat": 35.218453,
+"lon": -97.45411,
+"matched": true,
+"matched_address": "731 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"736 elm ave  73069": {
+"lat": 35.206796,
+"lon": -97.447948,
+"matched": true,
+"matched_address": "736 ELM AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"740 n berry rd  73069": {
+"lat": 35.227413,
+"lon": -97.459096,
+"matched": true,
+"matched_address": "740 N BERRY RD, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"744 elm ave  73069": {
+"lat": 35.206661,
+"lon": -97.447949,
+"matched": true,
+"matched_address": "744 ELM AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"747 asp ave  73069": {
+"lat": 35.21286,
+"lon": -97.443626,
+"matched": true,
+"matched_address": "747 ASP AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"750 1/2 asp ave  73069": {
+"lat": 35.212451,
+"lon": -97.443765,
+"matched": true,
+"matched_address": "750 1/2 ASP AVE, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"750 asp ave  73069": {
+"lat": 35.212451,
+"lon": -97.443765,
+"matched": true,
+"matched_address": "750 ASP AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"751 canadian trails dr 120 73072": {
+"lat": 35.180761,
+"lon": -97.451241,
+"matched": true,
+"matched_address": "751 S CANADIAN TRAILS DR, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"752 asp ave  73069": {
+"lat": 35.212398,
+"lon": -97.443765,
+"matched": true,
+"matched_address": "752 ASP AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"753 asp ave  73069": {
+"lat": 35.212667,
+"lon": -97.443625,
+"matched": true,
+"matched_address": "753 ASP AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"757 asp ave  73069": {
+"lat": 35.212539,
+"lon": -97.443625,
+"matched": true,
+"matched_address": "757 ASP AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"758 asp ave  73069": {
+"lat": 35.21224,
+"lon": -97.443765,
+"matched": true,
+"matched_address": "758 ASP AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"759 asp ave  73069": {
+"lat": 35.212474,
+"lon": -97.443625,
+"matched": true,
+"matched_address": "759 ASP AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"760 asp ave  73069": {
+"lat": 35.212188,
+"lon": -97.443764,
+"matched": true,
+"matched_address": "760 ASP AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"760 n interstate dr  73072": {
+"lat": 35.227881,
+"lon": -97.485945,
+"matched": true,
+"matched_address": "760 N INTERSTATE DR, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"760 w main st  73069": {
+"lat": 35.218339,
+"lon": -97.454256,
+"matched": true,
+"matched_address": "760 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"761 jenkins ave  73069": {
+"lat": 35.212338,
+"lon": -97.44117,
+"matched": true,
+"matched_address": "761 JENKINS AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"761 s jenkins ave  73069": {
+"lat": 35.212338,
+"lon": -97.44117,
+"matched": true,
+"matched_address": "761 JENKINS AVE, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"762 asp ave  73069": {
+"lat": 35.212135,
+"lon": -97.443764,
+"matched": true,
+"matched_address": "762 ASP AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"762 asp ave  73072": {
+"lat": 35.212135,
+"lon": -97.443764,
+"matched": true,
+"matched_address": "762 ASP AVE, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"765 asp ave 100 73069": {
+"lat": 35.212281,
+"lon": -97.443624,
+"matched": true,
+"matched_address": "765 ASP AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"765 asp ave 110 73069": {
+"lat": 35.212281,
+"lon": -97.443624,
+"matched": true,
+"matched_address": "765 ASP AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"768 s jenkins ave  73069": {
+"lat": 35.212092,
+"lon": -97.441308,
+"matched": true,
+"matched_address": "768 JENKINS AVE, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"769 asp  73069": {
+"lat": 35.212153,
+"lon": -97.443624,
+"matched": true,
+"matched_address": "769 ASP AVE, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"770 copperfield dr  73072": {
+"lat": 35.227677,
+"lon": -97.487188,
+"matched": true,
+"matched_address": "770 COPPERFIELD DR, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"770 deans row ave  73069": {
+"lat": 35.211741,
+"lon": -97.442904,
+"matched": true,
+"matched_address": "Cafe Saffron, 770, Deans Row Avenue, Norman, Cleveland County, Oklahoma, 73069, United States",
+"nominatim_tried": true,
+"quality": "nominatim:restaurant"
+},
+"775 asp ave  73069": {
+"lat": 35.21196,
+"lon": -97.443624,
+"matched": true,
+"matched_address": "775 ASP AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"777 jenkins ave  73069": {
+"lat": 35.211847,
+"lon": -97.441166,
+"matched": true,
+"matched_address": "777 JENKINS AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"780 w main st  73069": {
+"lat": 35.21834,
+"lon": -97.454401,
+"matched": true,
+"matched_address": "780 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"7801 120th ave ne  73026": {
+"lat": 35.312408,
+"lon": -97.264974,
+"matched": true,
+"matched_address": "7801 120TH AVE NE, NORMAN, OK, 73026",
+"quality": "Exact"
+},
+"7820 e state highway 9  73026": {
+"lat": 35.189195,
+"lon": -97.326493,
+"matched": true,
+"matched_address": "7820 STATE HWY 9, NORMAN, OK, 73026",
+"quality": "Non_Exact"
+},
+"786 asp ave  73069": {
+"lat": 35.211503,
+"lon": -97.443763,
+"matched": true,
+"matched_address": "786 ASP AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"788 asp ave  73069": {
+"lat": 35.21145,
+"lon": -97.443763,
+"matched": true,
+"matched_address": "788 ASP AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"796 asp avenue  73069": {
+"lat": 35.21124,
+"lon": -97.443762,
+"matched": true,
+"matched_address": "796 ASP AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"800 canadian trails dr  73072": {
+"lat": 35.180647,
+"lon": -97.451236,
+"matched": true,
+"matched_address": "800 S CANADIAN TRAILS DR, NORMAN, OK, 73072",
+"quality": "Non_Exact"
+},
+"800 chautauqua ave  73069": {
+"lat": 35.207438,
+"lon": -97.450166,
+"matched": true,
+"matched_address": "800 CHAUTAUQUA AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"800 e lindsey  73071": {
+"lat": 35.203779,
+"lon": -97.429611,
+"matched": true,
+"matched_address": "800 E LINDSEY ST, NORMAN, OK, 73071",
+"quality": "Non_Exact"
+},
+"800 n interstate dr  73072": {
+"lat": 35.226685,
+"lon": -97.485946,
+"matched": true,
+"matched_address": "800 N INTERSTATE DR, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"800 w lindsey st  73069": {
+"lat": 35.2038,
+"lon": -97.451712,
+"matched": true,
+"matched_address": "800 W LINDSEY ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"809 n findlay ave  73071": {
+"lat": 35.231816,
+"lon": -97.437433,
+"matched": true,
+"matched_address": "809 N FINDLAY AVE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"820 chautauqua ave  73069": {
+"lat": 35.207069,
+"lon": -97.450178,
+"matched": true,
+"matched_address": "820 CHAUTAUQUA AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"820 w main st  73069": {
+"lat": 35.218344,
+"lon": -97.454884,
+"matched": true,
+"matched_address": "820 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"8321 120th ave ne  73026": {
+"lat": 35.318953,
+"lon": -97.264891,
+"matched": true,
+"matched_address": "8321 120TH AVE NE, NORMAN, OK, 73026",
+"quality": "Exact"
+},
+"8323 120th ave ne  73026": {
+"lat": 35.318953,
+"lon": -97.264891,
+"matched": true,
+"matched_address": "8323 120TH AVE NE, NORMAN, OK, 73026",
+"quality": "Exact"
+},
+"840 ed noble pkwy  73072": {
+"lat": 35.208358,
+"lon": -97.482445,
+"matched": true,
+"matched_address": "840 ED NOBLE PKWY, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"860 interstate drive  73072": {
+"lat": 35.229304,
+"lon": -97.486418,
+"matched": true,
+"matched_address": "Outback Steakhouse, 860, North Interstate Drive, Norman, Cleveland County, Oklahoma, 73072, United States",
+"nominatim_tried": true,
+"quality": "nominatim:restaurant"
+},
+"860 n interstate dr  73072": {
+"lat": 35.229124,
+"lon": -97.485943,
+"matched": true,
+"matched_address": "860 N INTERSTATE DR, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"863 12th ave ne  73071": {
+"lat": 35.228297,
+"lon": -97.423478,
+"matched": true,
+"matched_address": "863 12TH AVE NE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"867 12th ave ne  73071": {
+"lat": 35.228323,
+"lon": -97.423478,
+"matched": true,
+"matched_address": "867 12TH AVE NE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"900 asp ave  73019": {
+"lat": 35.20203,
+"lon": -97.444254,
+"matched": true,
+"matched_address": "900 ASP AVE, NORMAN, OK, 73019",
+"quality": "Exact"
+},
+"900 asp ave  73069": {
+"lat": 35.209769,
+"lon": -97.44376,
+"matched": true,
+"matched_address": "900 ASP AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"901 12th ave ne  73071": {
+"lat": 35.228545,
+"lon": -97.423476,
+"matched": true,
+"matched_address": "901 12TH AVE NE, NORMAN, OK, 73071",
+"quality": "Exact"
+},
+"904 college ave  73072": {
+"lat": 35.203761,
+"lon": -97.449072,
+"matched": true,
+"matched_address": "904 COLLEGE AVE, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"906 w main st  73069": {
+"lat": 35.218351,
+"lon": -97.455797,
+"matched": true,
+"matched_address": "906 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"911 w main st  73069": {
+"lat": 35.218466,
+"lon": -97.455839,
+"matched": true,
+"matched_address": "911 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"920 w main st  73069": {
+"lat": 35.218352,
+"lon": -97.455946,
+"matched": true,
+"matched_address": "920 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"924 w main st  73069": {
+"lat": 35.218352,
+"lon": -97.455988,
+"matched": true,
+"matched_address": "924 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"924 w main st  73071": {
+"lat": 35.218352,
+"lon": -97.455988,
+"matched": true,
+"matched_address": "924 W MAIN ST, NORMAN, OK, 73069",
+"quality": "Non_Exact"
+},
+"930 chautauqua ave  73069": {
+"lat": 35.205018,
+"lon": -97.450202,
+"matched": true,
+"matched_address": "930 CHAUTAUQUA AVE, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"950 ed noble dr  73072": {
+"lat": 35.20683,
+"lon": -97.482322,
+"matched": true,
+"matched_address": "950 ED NOBLE DR, NORMAN, OK, 73072",
+"quality": "Exact"
+},
+"955 n interstate dr  73069": {
+"lat": 35.229814,
+"lon": -97.485064,
+"matched": true,
+"matched_address": "955 N INTERSTATE DR, NORMAN, OK, 73069",
+"quality": "Exact"
+},
+"970 ed noble parkway  73072": {
+"lat": 35.206365,
+"lon": -97.482265,
+"matched": true,
+"matched_address": "970 ED NOBLE PKWY, NORMAN, OK, 73072",
+"quality": "Exact"
+}
+}

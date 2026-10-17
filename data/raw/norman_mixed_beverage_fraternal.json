@@ -1,0 +1,88 @@
+{
+ "type": "ABC/LBD/Mixed Beverage Fraternal/License",
+ "city": "Norman",
+ "pulled_at": "2026-10-17T13:45:18",
+ "ok": true,
+ "rows": [
+  {
+   "date": "",
+   "record": "",
+   "type": "",
+   "name": "",
+   "status": "",
+   "expiration": "",
+   "address": "",
+   "href": null,
+   "raw": [
+    "10/17/2017",
+    "2375319",
+    "$500.00",
+    "View Details"
+   ]
+  },
+  {
+   "date": "",
+   "record": "",
+   "type": "",
+   "name": "",
+   "status": "",
+   "expiration": "",
+   "address": "",
+   "href": null,
+   "raw": [
+    "10/28/2016",
+    "2375319",
+    "$500.00",
+    "View Details"
+   ]
+  },
+  {
+   "date": "",
+   "record": "",
+   "type": "",
+   "name": "",
+   "status": "",
+   "expiration": "",
+   "address": "",
+   "href": null,
+   "raw": [
+    "09/18/2015",
+    "2375319",
+    "$500.00",
+    "View Details"
+   ]
+  },
+  {
+   "date": "",
+   "record": "",
+   "type": "",
+   "name": "",
+   "status": "",
+   "expiration": "",
+   "address": "",
+   "href": null,
+   "raw": [
+    "09/19/2014",
+    "2375319",
+    "$500.00",
+    "View Details"
+   ]
+  },
+  {
+   "date": "",
+   "record": "",
+   "type": "",
+   "name": "",
+   "status": "",
+   "expiration": "",
+   "address": "",
+   "href": null,
+   "raw": [
+    "10/07/2013",
+    "2375319",
+    "$500.00",
+    "View Details"
+   ]
+  }
+ ]
+}

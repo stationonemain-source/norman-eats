@@ -1,0 +1,113 @@
+{
+ "type": "ABC/Distributors Wholesalers/Small Farm Winery/License",
+ "city": "Norman",
+ "pulled_at": "2026-10-17T13:46:03",
+ "ok": true,
+ "rows": [
+  {
+   "date": "07/19/2021",
+   "record": "932352",
+   "type": "Small Farm Winery License",
+   "name": "SABATIA",
+   "status": "Active",
+   "expiration": "07/17/2027",
+   "address": "6851 Day Dr, Norman OK 73026 United States",
+   "href": "/ABLE/Cap/CapDetail.aspx?Module=ABC&TabName=ABC&capID1=21HIS&capID2=00000&capID3=0K3VV&agencyCode=ABLE&IsToShowInspection=",
+   "raw": [
+    "",
+    "07/19/2021",
+    "932352",
+    "Small Farm Winery License",
+    "SABATIA",
+    "07/17/2027",
+    "Active",
+    "",
+    "6851 Day Dr, Norman OK 73026 United States"
+   ]
+  },
+  {
+   "date": "04/18/2018",
+   "record": "770919",
+   "type": "Small Farm Winery License",
+   "name": "ESKIMO HUT",
+   "status": "Expired",
+   "expiration": "04/17/2022",
+   "address": "0, NORMAN OK 73069",
+   "href": "/ABLE/Cap/CapDetail.aspx?Module=ABC&TabName=ABC&capID1=18HIS&capID2=00000&capID3=0G9K7&agencyCode=ABLE&IsToShowInspection=",
+   "raw": [
+    "",
+    "04/18/2018",
+    "770919",
+    "Small Farm Winery License",
+    "ESKIMO HUT",
+    "04/17/2022",
+    "Expired",
+    "Pay Fees Due",
+    "0, NORMAN OK 73069"
+   ]
+  },
+  {
+   "date": "02/18/2011",
+   "record": "572276",
+   "type": "Small Farm Winery License",
+   "name": "NATIVE SPIRITS WINERY",
+   "status": "Active",
+   "expiration": "02/16/2027",
+   "address": "10500 E LINDSEY ST, NORMAN OK 73026, 10500",
+   "href": "/ABLE/Cap/CapDetail.aspx?Module=ABC&TabName=ABC&capID1=11HIS&capID2=00000&capID3=0BJPZ&agencyCode=ABLE&IsToShowInspection=",
+   "raw": [
+    "",
+    "02/18/2011",
+    "572276",
+    "Small Farm Winery License",
+    "NATIVE SPIRITS WINERY",
+    "02/16/2027",
+    "Active",
+    "",
+    "10500 E LINDSEY ST, NORMAN OK 73026, 10500"
+   ]
+  },
+  {
+   "date": "04/09/2009",
+   "record": "523129",
+   "type": "Small Farm Winery License",
+   "name": "NATIVE SPIRITS WINERY",
+   "status": "Expired",
+   "expiration": "04/08/2010",
+   "address": "0 E LINDSEY, NORMAN OK 73026, 10500",
+   "href": "/ABLE/Cap/CapDetail.aspx?Module=ABC&TabName=ABC&capID1=09HIS&capID2=00000&capID3=0ADQP&agencyCode=ABLE&IsToShowInspection=",
+   "raw": [
+    "",
+    "04/09/2009",
+    "523129",
+    "Small Farm Winery License",
+    "NATIVE SPIRITS WINERY",
+    "04/08/2010",
+    "Expired",
+    "",
+    "0 E LINDSEY, NORMAN OK 73026, 10500"
+   ]
+  },
+  {
+   "date": "05/01/2007",
+   "record": "477526",
+   "type": "Small Farm Winery License",
+   "name": "REDBUD RIDGE VINEYARD & WINERY",
+   "status": "Surrendered",
+   "expiration": "04/30/2019",
+   "address": "0 E IMHOFF, NORMAN OK 73026, 7301",
+   "href": "/ABLE/Cap/CapDetail.aspx?Module=ABC&TabName=ABC&capID1=07HIS&capID2=00000&capID3=09AO9&agencyCode=ABLE&IsToShowInspection=",
+   "raw": [
+    "",
+    "05/01/2007",
+    "477526",
+    "Small Farm Winery License",
+    "REDBUD RIDGE VINEYARD & WINERY",
+    "04/30/2019",
+    "Surrendered",
+    "",
+    "0 E IMHOFF, NORMAN OK 73026, 7301"
+   ]
+  }
+ ]
+}
