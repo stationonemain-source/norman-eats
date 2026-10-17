@@ -474,25 +474,6 @@
    ]
   },
   {
-   "name": "Bedrock Cafe",
-   "slug": "bedrock-cafe",
-   "address": "1406 Asp Ave Rm 207a",
-   "zip": "73019",
-   "category": "Coffee, tea & bakeries",
-   "cuisines": [],
-   "area": "OU campus",
-   "lat": 35.201965,
-   "lon": -97.444254,
-   "licensed": false,
-   "licence_types": [],
-   "licence_on_record_since": null,
-   "last_inspection": "2026-07-14",
-   "osm": null,
-   "sources": [
-    "osdh"
-   ]
-  },
-  {
    "name": "Beer Is Good Brewing Company",
    "slug": "beer-is-good-brewing-company",
    "address": "216 E Main Street",
@@ -2558,27 +2539,6 @@
    ]
   },
   {
-   "name": "Epic's Next Level Nutrition",
-   "slug": "epics-next-level-nutrition",
-   "address": "516 N Porter Ave",
-   "zip": "73071",
-   "category": "Coffee, tea & bakeries",
-   "cuisines": [
-    "Smoothies & shakes"
-   ],
-   "area": "East Norman",
-   "lat": 35.218783,
-   "lon": -97.436771,
-   "licensed": false,
-   "licence_types": [],
-   "licence_on_record_since": null,
-   "last_inspection": "2026-08-20",
-   "osm": null,
-   "sources": [
-    "osdh"
-   ]
-  },
-  {
    "name": "Fantasy Chinese Cuisine",
    "slug": "fantasy-chinese-cuisine",
    "address": "320 12th Ave SE, Suite 110",
@@ -2664,27 +2624,6 @@
    "sources": [
     "osdh",
     "osm"
-   ]
-  },
-  {
-   "name": "Fixed Nutrition",
-   "slug": "fixed-nutrition",
-   "address": "2100 W Lindsey St, Suite 104",
-   "zip": "73069",
-   "category": "Coffee, tea & bakeries",
-   "cuisines": [
-    "Smoothies & shakes"
-   ],
-   "area": "Lindsey Street",
-   "lat": 35.203847,
-   "lon": -97.472319,
-   "licensed": false,
-   "licence_types": [],
-   "licence_on_record_since": null,
-   "last_inspection": "2026-02-11",
-   "osm": null,
-   "sources": [
-    "osdh"
    ]
   },
   {
@@ -2899,27 +2838,6 @@
     "able",
     "osdh",
     "osm"
-   ]
-  },
-  {
-   "name": "Gallion Sports Nutrition",
-   "slug": "gallion-sports-nutrition",
-   "address": "2228 W Main St",
-   "zip": "73072",
-   "category": "Coffee, tea & bakeries",
-   "cuisines": [
-    "Smoothies & shakes"
-   ],
-   "area": "West Norman & I-35",
-   "lat": 35.218296,
-   "lon": -97.474198,
-   "licensed": false,
-   "licence_types": [],
-   "licence_on_record_since": null,
-   "last_inspection": "2026-09-08",
-   "osm": null,
-   "sources": [
-    "osdh"
    ]
   },
   {
@@ -3140,27 +3058,6 @@
    ]
   },
   {
-   "name": "The Grind",
-   "slug": "the-grind",
-   "address": "300 3rd St Room 150",
-   "zip": "73019",
-   "category": "Coffee, tea & bakeries",
-   "cuisines": [
-    "Coffee"
-   ],
-   "area": "OU campus",
-   "lat": 35.200847,
-   "lon": -97.44426,
-   "licensed": false,
-   "licence_types": [],
-   "licence_on_record_since": null,
-   "last_inspection": "2026-04-20",
-   "osm": null,
-   "sources": [
-    "osdh"
-   ]
-  },
-  {
    "name": "Groovy Mule Tacos",
    "slug": "groovy-mule-tacos",
    "address": "728 Smalley Dr",
@@ -3374,25 +3271,6 @@
    "sources": [
     "osdh",
     "osm"
-   ]
-  },
-  {
-   "name": "Hebrews 11:6",
-   "slug": "hebrews-11-6",
-   "address": "1321 E Lindsey St",
-   "zip": "73071",
-   "category": "Restaurants",
-   "cuisines": [],
-   "area": "East Norman",
-   "lat": 35.203896,
-   "lon": -97.421084,
-   "licensed": false,
-   "licence_types": [],
-   "licence_on_record_since": null,
-   "last_inspection": "2026-02-20",
-   "osm": null,
-   "sources": [
-    "osdh"
    ]
   },
   {
@@ -4405,27 +4283,6 @@
    ]
   },
   {
-   "name": "Level 10 Protein Bar",
-   "slug": "level-10-protein-bar",
-   "address": "1959 W Lindsey St",
-   "zip": "73069",
-   "category": "Coffee, tea & bakeries",
-   "cuisines": [
-    "Smoothies & shakes"
-   ],
-   "area": "Lindsey Street",
-   "lat": 35.203972,
-   "lon": -97.469509,
-   "licensed": false,
-   "licence_types": [],
-   "licence_on_record_since": null,
-   "last_inspection": "2026-05-26",
-   "osm": null,
-   "sources": [
-    "osdh"
-   ]
-  },
-  {
    "name": "Leviity Breakfast House Restaurant",
    "slug": "leviity-breakfast-house-restaurant",
    "address": "309 S Peters Ave",
@@ -5352,27 +5209,6 @@
    ]
   },
   {
-   "name": "Native Blends Nutrition",
-   "slug": "native-blends-nutrition",
-   "address": "920 W Main St",
-   "zip": "73069",
-   "category": "Coffee, tea & bakeries",
-   "cuisines": [
-    "Smoothies & shakes"
-   ],
-   "area": "Downtown & Main Street",
-   "lat": 35.218352,
-   "lon": -97.455946,
-   "licensed": false,
-   "licence_types": [],
-   "licence_on_record_since": null,
-   "last_inspection": "2026-08-11",
-   "osm": null,
-   "sources": [
-    "osdh"
-   ]
-  },
-  {
    "name": "NCED - 3 Squares Eatery",
    "slug": "nced-3-squares-eatery",
    "address": "2801 E State Highway 9",
@@ -5479,27 +5315,6 @@
     "able",
     "osdh",
     "osm"
-   ]
-  },
-  {
-   "name": "Nine77 Nutrition",
-   "slug": "nine77-nutrition",
-   "address": "3054 Classen Blvd",
-   "zip": "73071",
-   "category": "Coffee, tea & bakeries",
-   "cuisines": [
-    "Smoothies & shakes"
-   ],
-   "area": "East Norman",
-   "lat": 35.181696,
-   "lon": -97.417101,
-   "licensed": false,
-   "licence_types": [],
-   "licence_on_record_since": null,
-   "last_inspection": "2026-03-26",
-   "osm": null,
-   "sources": [
-    "osdh"
    ]
   },
   {
@@ -5816,25 +5631,6 @@
    "osm": null,
    "sources": [
     "able",
-    "osdh"
-   ]
-  },
-  {
-   "name": "The Palace",
-   "slug": "the-palace",
-   "address": "863 12th Ave NE",
-   "zip": "73071",
-   "category": "Restaurants",
-   "cuisines": [],
-   "area": "East Norman",
-   "lat": 35.228297,
-   "lon": -97.423478,
-   "licensed": false,
-   "licence_types": [],
-   "licence_on_record_since": null,
-   "last_inspection": "2026-02-04",
-   "osm": null,
-   "sources": [
     "osdh"
    ]
   },
@@ -6185,25 +5981,6 @@
    "sources": [
     "osdh",
     "osm"
-   ]
-  },
-  {
-   "name": "The Play Pit",
-   "slug": "the-play-pit",
-   "address": "227 E Main St",
-   "zip": "",
-   "category": "Restaurants",
-   "cuisines": [],
-   "area": "Downtown & Main Street",
-   "lat": 35.221737,
-   "lon": -97.441516,
-   "licensed": false,
-   "licence_types": [],
-   "licence_on_record_since": null,
-   "last_inspection": "2026-04-29",
-   "osm": null,
-   "sources": [
-    "osdh"
    ]
   },
   {
@@ -7220,25 +6997,6 @@
    ]
   },
   {
-   "name": "Six Strings",
-   "slug": "six-strings",
-   "address": "723 Asp Ave",
-   "zip": "73069",
-   "category": "Restaurants",
-   "cuisines": [],
-   "area": "Campus Corner",
-   "lat": 35.213594,
-   "lon": -97.443627,
-   "licensed": false,
-   "licence_types": [],
-   "licence_on_record_since": null,
-   "last_inspection": "2026-08-10",
-   "osm": null,
-   "sources": [
-    "osdh"
-   ]
-  },
-  {
    "name": "Sky European Gourmet",
    "slug": "sky-european-gourmet",
    "address": "211 34th Ave SW",
@@ -7558,28 +7316,6 @@
    ]
   },
   {
-   "name": "Sooner Nutrition",
-   "slug": "sooner-nutrition",
-   "address": "3451 36th Ave NW,, Suite 170",
-   "zip": "73072",
-   "category": "Restaurants",
-   "cuisines": [
-    "Smoothies & shakes"
-   ],
-   "area": "West Norman & I-35",
-   "lat": 35.259939,
-   "lon": -97.494232,
-   "licensed": false,
-   "licence_types": [],
-   "licence_on_record_since": null,
-   "last_inspection": "2026-04-07",
-   "osm": "https://www.openstreetmap.org/node/13277713593",
-   "sources": [
-    "osdh",
-    "osm"
-   ]
-  },
-  {
    "name": "Sooner Station Pub",
    "slug": "sooner-station-pub",
    "address": "2803 24th Ave NW",
@@ -7606,7 +7342,7 @@
    "slug": "soonercade",
    "address": "3247 W Main St",
    "zip": "73072",
-   "category": "Restaurants",
+   "category": "Games, lanes & screens",
    "cuisines": [],
    "area": "West Norman & I-35",
    "lat": 35.218521,
@@ -8717,46 +8453,6 @@
    "licence_types": [],
    "licence_on_record_since": null,
    "last_inspection": "2026-05-28",
-   "osm": null,
-   "sources": [
-    "osdh"
-   ]
-  },
-  {
-   "name": "The Tower",
-   "slug": "the-tower",
-   "address": "584 Buchanan Ave",
-   "zip": "73069",
-   "category": "Restaurants",
-   "cuisines": [],
-   "area": "Campus Corner",
-   "lat": 35.211436,
-   "lon": -97.444717,
-   "licensed": false,
-   "licence_types": [],
-   "licence_on_record_since": null,
-   "last_inspection": "2026-09-24",
-   "osm": null,
-   "sources": [
-    "osdh"
-   ]
-  },
-  {
-   "name": "Triad Fitness Supplements Nutrition",
-   "slug": "triad-fitness-supplements-nutrition",
-   "address": "2230 24th Ave NW",
-   "zip": "73069",
-   "category": "Coffee, tea & bakeries",
-   "cuisines": [
-    "Smoothies & shakes"
-   ],
-   "area": "West Norman & I-35",
-   "lat": 35.246115,
-   "lon": -97.481349,
-   "licensed": false,
-   "licence_types": [],
-   "licence_on_record_since": null,
-   "last_inspection": "2026-02-06",
    "osm": null,
    "sources": [
     "osdh"

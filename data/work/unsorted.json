@@ -105,9 +105,19 @@
   "last_inspection": "2026-04-15"
  },
  {
+  "name": "PALACE, THE",
+  "street": "863 12TH AVE NE",
+  "last_inspection": "2026-02-04"
+ },
+ {
   "name": "PHARMERS MARKET ON LINDSEY",
   "street": "530 W LINDSEY ST",
   "last_inspection": "2026-01-22"
+ },
+ {
+  "name": "PLAY PIT, THE",
+  "street": "227 E MAIN ST",
+  "last_inspection": "2026-04-29"
  },
  {
   "name": "PRAISE AND POP",
@@ -160,6 +170,11 @@
   "last_inspection": "2026-04-29"
  },
  {
+  "name": "SIX STRINGS",
+  "street": "723 ASP AVE",
+  "last_inspection": "2026-08-10"
+ },
+ {
   "name": "SMILE GROUP",
   "street": "112 W MAIN ST",
   "last_inspection": "2026-02-24"
@@ -208,6 +223,11 @@
   "name": "TOKELAHOMA'S FINEST",
   "street": "1032 N PORTER AVE",
   "last_inspection": "2026-01-12"
+ },
+ {
+  "name": "TOWER, THE",
+  "street": "584 BUCHANAN AVE",
+  "last_inspection": "2026-09-24"
  },
  {
   "name": "TRIFECTA FARMS",

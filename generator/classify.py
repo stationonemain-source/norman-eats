@@ -73,12 +73,12 @@ FOOD_RX = re.compile(
     r"cold stone|il dolce|hteao|golden corral|ihop|denny|cracker barrel|olive garden|red lobster|longhorn|outback steakhouse|saltgrass|cheddar|"
     r"red robin|bj.?s|buffalo wild wings|wingstop|chili.?s|applebee|texas roadhouse|jimmy.?s egg|hatch early|daylight|krispy|shipley|"
     r"apple tree|amy cakes|doughnuttery|gambill|magic masala|kebabish|brasco|leviity|dara marie|pink pig|lohmann|better bites|baked bear|"
-    r"palace|play pit|hebrews|cool beans|bookmark|avara|earth natural|flying cow|fowler honda-caf|kaizen|opuluck|joey|hasslers|fusion|"
-    r"delish|level 10|epic|fixed|gallion|nine77|native blends|hot chicken|moes|golden chef|old #9|old number|mrhui|juan del fuego|fortaleza|"
+    r"cool beans|bookmark|avara|earth natural|flying cow|fowler honda-caf|kaizen|opuluck|joey|hasslers|fusion|"
+    r"delish|hot chicken|moes|golden chef|old #9|old number|mrhui|juan del fuego|fortaleza|"
     r"el rincon|doner street|crimson panda|baja fresh|la divina|la monarca|michoacana|homestead steaks|praise and pop|floof|fruit pop|bougie bunny|"
     r"3 squares|pony express|china|panda garden|happy family|happy garden|classic 50|del rancho|dominos|fat shack|baguette|pit and pie|"
     r"press and plow|plow|quiznos|shake shack|sharetea|shaved|winebar|wine bar|gourmet|sweet shop|snacks|snow|starbuck|stella nova|swig|"
-    r"tamale|tamales|brown bag|greene turtle|pig stand|van.?s pig|shawarma|grind|grindz|soonercade|six strings|tower)(?:'?s|z)?\b", re.I)
+    r"tamale|tamales|brown bag|greene turtle|pig stand|van.?s pig|shawarma|grind|grindz|soonercade)(?:'?s|z)?\b", re.I)
 NONFOOD_RX = re.compile(
     r"\b(school|elementary|middle school|high school|academy|daycare|day care|child|children|learning|preschool|head start|nursing|rehab|"
     r"hospital|medical|clinic|health\b|healthplex|senior|living|retirement|church|ministry|ministries|fraternity|sorority|greek\s*-|dormitor|"
@@ -97,7 +97,8 @@ NONFOOD_RX = re.compile(
     r"prepackaged|redzone|boomarang|santee|kickoff|upper deck|west floor|east club|south club|club south|north ada|heisman|goal line|"
     r"lnc\b|^ms\b|ms \d|ms [a-z]|levy|ou baseball|ou softball|ou gray|ou life|cross a|cross c|couch restaurants|cate ala carte|"
     r"little axe|exhibit|norman - aging|norman optimist|central kitchen|canteen|mai franchising|no hit|hitachi|jci|blue sky|"
-    r"bazaar|legends times two|regal|amc\b|next gen sports|oklahoma premier)\b", re.I)
+    r"bazaar|legends times two|regal|amc\b|next gen sports|oklahoma premier|nutrition|protein bar|supplement|hebrews)\b", re.I)
+IN_BUILDING_RX = re.compile(r"\b(rm|room|bldg|building|floor|fl)\b\.?\s*\w*", re.I)   # '1406 Asp Ave Rm 207a': a counter inside a building, not a storefront
 GREEK_RX = re.compile(r"\b(alpha|beta|gamma|delta|epsilon|zeta|eta|theta|iota|kappa|lambda|mu|nu|xi|omicron|pi|rho|sigma|tau|upsilon|phi|chi|psi|omega)\b.*"
                       r"\b(alpha|beta|gamma|delta|epsilon|zeta|eta|theta|iota|kappa|lambda|mu|nu|xi|omicron|pi|rho|sigma|tau|upsilon|phi|chi|psi|omega)\b", re.I)
 VENUE_ADDRESSES = re.compile(r"^(180 W BROOKS|2900 S? ?JENKINS|401 W? ?IMHOFF|300 W IMHOFF|2500 S JENKINS|333 4TH ST|1000 ASP|1200 ASP|33\d CATE CENTER|"
@@ -111,7 +112,7 @@ EXCLUDE_NAMES = [
     (r"\bstonehill norman\b", "a senior-living community (members only)"), (r"\bmidway grocery & market\b", "the grocery's caterer licence (see Midway Deli)"),
 ]
 HOTEL_RX = re.compile(r"\b(hotel|inn\b|courtyard|embassy suites|residence inn|hilton|marriott|conference center|bed & breakfast|garner hotel|noun hotel|nced)\b", re.I)
-ENT_RX = re.compile(r"\b(bowling|lanes|golf|main event|heyday|entertainment|chuck e|arcade|top ?golf|five iron|axe|pickleball|escape|trails golf|westwood park|thunderbird entertainment)\b", re.I)
+ENT_RX = re.compile(r"\b(bowling|lanes|golf|main event|heyday|entertainment|chuck e|arcade|soonercade|top ?golf|five iron|axe|pickleball|escape|trails golf|westwood park|thunderbird entertainment)\b", re.I)
 LOUNGE_RX = re.compile(r"\b(hookah|cigar|pipe & tobacco|social club|lounge)\b", re.I)
 BAR_RX = re.compile(r"\b(bar\b|pub\b|tavern|saloon|taproom|tap room|daiquiri|club\b|heist|barracuda|baracuda|mont\b|opolis|prohibition|the garage|the standard|red brick|rock house|blue ?bonnet|roxy|logie|stepbrothers|library|sideline|maverick|coaches|happy monk|old number 9|old #9|the deli\b|volare|mickey|royal pipe|elegance|maximillian|the wagon|porch\b|nompton|press & plow|sooner station|flight club)\b", re.I)
 NOT_A_BAR_RX = re.compile(r"\b(protein bar|juice bar|smoothie bar|salad bar|sushi bar|oyster bar|coffee bar|snack bar|nutrition|bar-b-q|barbecue|bar & grill|bar and grill|burger bar)\b", re.I)
@@ -132,6 +133,8 @@ def exclusion_reason(name, street=""):
         return "a fraternity or sorority house kitchen"
     if VENUE_ADDRESSES.match((street or "").upper()):
         return "a concession stand, campus dining hall or staff canteen"
+    if IN_BUILDING_RX.search(street or ""):
+        return "a counter inside a building (a room number in the address), not a storefront"
     if NONFOOD_RX.search(name):
         return "not a restaurant or bar (a store, dispensary, institution, stand or service kitchen)"
     return None
